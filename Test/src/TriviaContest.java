@@ -34,8 +34,8 @@ public class TriviaContest {
 		String theAnswer;
 	}
 	
-	static final String WIKI = "c:\\Users\\rtheas\\Documents\\cheerwiki.txt";
-	static final String PLAYLIST = "c:\\Users\\rtheas\\Documents\\playlist.txt";
+	static final String WIKI = "c:\\Users\\rtheas\\Documents\\cheerwiki.txt"; //File containing artist info
+	static final String PLAYLIST = "c:\\Users\\rtheas\\Documents\\playlist.txt"; //playlist of songs to be played
 	
 	Map<String,ArtistInfo> artists = new HashMap<String,ArtistInfo>();
 	Map<String,String> playList = new HashMap<String,String>();
