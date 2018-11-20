@@ -35,7 +35,7 @@ public class ServerWorker {
 		    }
 		} catch (IOException e)
 		{
-			System.out.println("Client connection lost.");
+			System.out.println("Client connection lost.");//comment
 		    
 		}
 	}
