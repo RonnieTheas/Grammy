@@ -1,0 +1,3950 @@
+// MUSIC WIKI A,B - 05-27-2017
+1, 10,20,A,20,140,B,140,480
+// 
+// BAND    | BAND_BRIT = Band British | DUO_MF = Duo Male & Female | DUO_M    = Duo Male
+// FV = Female Vocalist  | F_BAND = Female Band  | FV_CTRY = Female Vocalis Country
+// F_BAND = Female Band Mixed
+// MV = Male Vocalist| MV_BRIT = Male Vocalist British  | MV_CTRY = Male Vocalist Country
+// METAL 
+// 
+// ************************
+ARTIST; 10cc; **; BAND; d0e16c72-9c38-01b9-88e6-164bd2d1d0f6; 0.8; UK
+TRIVIA; This British art rock band achieved success in the 70s. All band members are gifted instrumentalists, singers and song writers.
+QUESTION; TRUE;
+BOUGHT; The Things We Do for Love
+TRUE; I'm Not in Love | Dreadlock Holiday
+// *
+//
+//
+//
+// *************************
+ARTIST; ABBA; **; F_BAND; 17665a75-0252-4bff-44bd-cd4b0215fdfc; 0.5; SWE
+TRIVIA; This Swedish pop group became one of the most successful acts in the history of popular music, topping the charts worldwide from 1975 to 1982. 
+TRIVIA;  ABBA is an acronym of the first letters of the band members' first names (Agnetha, Benny, Björn and Anni-Frid) 
+TRIVIA; ABBA was inducted into the Rock and Roll Hall of Fame in 2010 and is second best selling music group of all time
+QUESTION; TRUE;
+BOUGHT; The winner Takes it All | Chiquitita | Dancing Queen | Mamma Mia
+TRUE; Angeleyes | Bang-A-Boomerang
+TRUE; Crazy World | He Is Your Brother | The Piper | Head Over Heels
+TRUE; Hole in Your Soul
+//
+ARTIST; Aerosmith; **; BAND; 5717a9de-ed87-54f9-9ac9-9116df803143; 1.33; US
+TRIVIA; An American hard rock band started in 1970 known as 'The Bad Boys from Boston'
+QUESTION; TRUE;
+BOUGHT; Rag Doll
+TRUE; I Don't Want to Miss a Thing
+TRUE; Dream On | Walk This Way
+// FALSE; Takin' Care of Business @ Bachman-Turner Overdrive
+// FALSE; Razzle Dazzle @ Bill Haley & His Comets
+// FALSE; Hot Pants Explosion @ The B-52's
+//
+ARTIST;    Air Supply; **; F_BAND; 02821b70-c259-4dff-4011-78d5e2d954ea; 1.3    
+TRIVIA; This Australian soft rock duo, formed in 1975 and active today, had 8 Top Ten hits in the US in the 80s. 
+QUESTION; TRUE; 
+BOUGHT; All Out of Love
+TRUE; Making Love Out of Nothing At All | Lost In Love
+//
+//
+//
+//
+//
+ARTIST; Alabama; **; BAND; e2ee068d-7f89-ba8c-5ffa-1d733d5cd2f6; 1.5; US
+TRIVIA;  This country and southern rock band from Alabama, most popular in the '80s, charted over 30 number one hits 
+QUESTION; TRUE;
+BOUGHT; If You're Gonna Play In Texas (You Gotta Have a Fiddle In the Band)
+TRUE; Mountain Music | Song of the South | Dixieland Delight | Love in the First Degree
+// 
+// 
+// BONUS_Q; Alabama's biggest success came in what decade ? 50s 60s 70s 80s or 90s ? @ The 1980s | 80 
+// 
+// 
+ARTIST; Al Jolson; **; MV
+TRIVIA; An American singer; actor; and comedian born in 1886
+QUESTION; TRUE;
+BOUGHT; When You Were Sweet Sixteen
+TRUE; Swanee|Toot Toot Tootsie! Goodbye
+TRUE; California | Here I Come| My Mammy
+// 
+//
+//
+//
+ARTIST; Alice Cooper; **; BAND; 6399eaf9-f4e1-a549-4836-eb761f7514ad; 2.0; US 
+TRIVIA; This hard rock band formed in Arizona, active 1964 to 1975, is famous for its elaborate stage shows. It was inducted into the Rock and Roll Hall of Fame in 2011
+QUESTION; TRUE;
+TRUE; I'm Eighteen | School's Out
+TRUE; No More Mr. Nice Guy | Lost In America
+//
+//
+//
+//
+//
+ARTIST; America; **; BAND; e077338e-edbc-46e6-a0f7-4621c18b20aa; 1.33; US
+TRIVIA; This pop rock band, formed in England in 1970 by a trio of American musicians 
+had numerous hits in the 70s, won a Grammy and was inducted into the Vocal Group Hall of Fame 
+QUESTION; TRUE
+BOUGHT; A Horse with No Name
+TRUE; Ventura Highway | Tin Man | You Can Do Magic
+TRUE; Lonely People | Sister Golden Hair
+//
+//
+//
+ARTIST; The Animals; **; BAND_BRIT; f5db72b4-594a-c3b5-b9b6-76db07a73924; 1.01; UK
+TRIVIA; This British Invasion band of the '60s was inducted into the Rock and Roll Hall of Fame in 1994.
+TRIVIA; This British invasion band's music genres included rock, blues rock, rhythm and blues, and psychedelic rock
+QUESTION; TRUE;
+BOUGHT; House of the Rising Sun    
+TRUE; We Gotta Get out of This Place | It's My Life | Don't Let Me Be Misunderstood
+// 
+//   
+// 
+//
+ARTIST; Anne Murray; **; FV; bac8b44f-9b05-eddb-d682-5bf66797882e; 1.0; CAN 
+TRIVIA;  This pop and country artist is the first Canadian female solo singer to reach No. 1 on the U.S. charts, earn a Gold record and win a Country Music "Album of the Year"
+TRIVIA;  This Canadian pop and country singer who received four Grammys and three Country Music Awards, has been inducted into the Canadian Country Music Hall of Fame
+QUESTION; TRUE;
+BOUGHT; Danny's Song | You needed me | Could I Have This Dance
+TRUE; Snowbird
+//
+//
+//
+//
+ARTIST; The Archies; **; BAND; d5ff0673-3539-5a70-2a61-24834ddb6fd4; 1.0; US
+TRIVIA; An American bubblegum pop band based on the cartoon TV series 'The Archie Show'. In 1969, its hit song 'Sugar, Sugar' reached number 1 on the Billboard Hot 100 chart.
+QUESTION; TRUE;
+BOUGHT; Sugar Sugar
+TRUE; Jingle Jangle | Bang-Shang-A-Lang
+//
+//
+//
+//
+//
+ARTIST; Arlo Guthrie; **; MV; d19766d3-5ea2-0df9-786e-fe2403331268; 0.8; US
+TRIVIA; This American folk singer, an iconic figure of the counterculture of the '60s, performed at the original Woodstock Festival
+QUESTION; TRUE;
+BOUGHT; The City of New Orleans
+TRUE; Coming Into Los Angeles | The Motorcycle Song
+//
+// QUESTION; DIALOG; Arlo's best known single is a talking blues song named "A????'s Restaurant Massacre"
+// HINT; Give missing 5 letter word. It is the name of a girl // ANSWER; Alice | Alise | lice
+// 
+//
+ARTIST; The Association; **; BAND; 4baf0c2b-1d69-649b-083a-77db66875df2; 1.0; US
+TRIVIA; This pop band from California had multiples hits at the top of the Billboard charts in the 60s
+QUESTION; TRUE;
+BOUGHT; Cherish | Windy
+TRUE; Never My Love | Along Comes Mary
+//
+//
+//
+//
+// **************************************************
+ARTIST; The B-52's; **; F_BAND; ; 2febc9fe-88ee-043e-b184-088ece3248ee; 1.59; US    
+TRIVIA; This new wave group, formed in Georgia in 1976, evolved into a pop rock band best known for their iconic guitar and keyboard instrumentation.
+QUESTION; TRUE;
+BOUGHT; Hot Pants Explosion
+TRUE; Love Shack | Roam 
+TRUE; Rock Lobster
+//
+//
+//
+//
+ARTIST; B.J. Thomas; **; MV; 1a550485-5b52-3e6e-c7d3-5f222e2e735f; 1.02; US
+TRIVIA; This popular singer from Oklahoma, born 1942, won 6 Grammy awards with Pop and Country hit songs in the 60's and 70's, including a soundtrack for the 1969 film Butch Cassidy and the Sundance Kid 
+QUESTION; TRUE;
+BOUGHT; Hooked On a Feeling
+TRUE; Raindrops Keep Fallin' on My Head
+TRUE; Another Somebody Done Somebody Wrong
+//
+//
+//
+//
+ARTIST; Bachman-Turner Overdrive; **; BAND; c2fdf1ec-a603-7f83-b1c3-c1ba5580beb2; 1.33; CAN
+TRIVIA; A Canadian rock group with hit albums in the 70s
+QUESTION; TRUE; Bachman-Turner
+BOUGHT; Takin' Care of Business
+BOUGHT; You Ain't Seen Nothing Yet
+TRUE; Let It Ride | Hey You
+//
+// BONUS_Q; Fans of Bachman-Turner were nicknamed ????????s because the band's logo is gear-shaped @ Gearheads | geerheads
+//
+//
+ARTIST; The Bangles; **; F_BAND; e8f05948-7c6b-ca69-afc8-e9d51ceeba1b; 1.0; US
+TRIVIA; This American all-female pop rock band scored several hit singles during the 80s. 
+QUESTION; TRUE;
+BOUGHT; Walk Like an Egyptian 
+TRUE; Eternal Flame | Hazy Shade of Winter | Manic Monday
+//  
+// 
+// 
+// BONUS_Q; Where was this band formed ? City or State @ Los Angeles | California
+//
+ARTIST; Barbara Mandrell; **; FV_CTRY; 90ca5128-1f0a-6d83-0dc3-bd48226d0f6a; 0.8; US
+TRIVIA; This American country music singer is one of country's most successful female vocalists of the 70s and 80s
+TRIVIA; Barbara made Country Music Hall of Fame in 2009.
+QUESTION; TRUE;
+BOUGHT; After the Lovin'
+TRUE; I Was Country When Country Wasn't Cool | Sleeping Single in a Double Bed
+// 
+// 
+// 
+//
+ARTIST; Barbra Streisand; **; FV; ee2abdaf-cfee-8bc7-ba65-f9cbd3e29fe4; 1.0; US
+TRIVIA; An American singer-songwriter, author and actress has won multiple Oscar, Emmy, Grammy, and Tony Awards
+TRIVIA; Streisand is one of the best-selling music artists of all time, with 245 million records sold worldwide
+QUESTION; TRUE;
+BOUGHT; Smoke Gets In Your Eyes | Woman In Love | The Way We Were    
+// QUESTION; OTHER; Barbra starred in what critically acclaimed film ?
+// TRUE; Funny Girl
+// FALSE; Pretty Woman @ Julia Roberts | Terms of Endearment @ Shirley MacLaine
+// FALSE; Steel Magnolias @  Dolly Parton
+//
+ARTIST; Bay City Rollers; **; BAND_BRIT; ab31c86d-bf09-f3b2-2c2a-937bda20a60d; 1.2; UK
+TRIVIA; This Scottish pop band were worldwide teen idols in the "Rollermania" period of the 1970s. 
+QUESTION; TRUE;
+BOUGHT; Saturday Night | I Only Wanna Be With You | I Only Want To Be With You
+TRUE; Bye Bye Baby
+//
+//
+//
+//
+//
+ARTIST; The Beau Brummels; **; BAND; fadbb8c9-8311-637b-70a5-84facf66af9a; 1.0; US
+TRIVIA; This American rock and pop band formed in San Francisco in 1964, charted three top 10 and top 40 hits in the US and Canada in the 60s
+QUESTION; TRUE;
+BOUGHT; Laugh, Laugh
+TRUE; Just a Little
+//
+//
+//
+//
+//
+ARTIST; The Beach Boys; **; BAND; 1202e301-3a6c-3a74-9b0c-a4e9032ee3b0; 1.47; US
+TRIVIA; "America's Band" is a  rock band formed in California in 1961 
+QUESTION; TRUE;
+BOUGHT; Then I Kissed Her | California Girls
+BOUGHT; Surfin' Safari|Surfin' U.S.A.
+BOUGHT; Help Me, Rhonda
+//
+//
+//
+//
+ARTIST; The Beatles; **; BAND_BRIT; 898a6440-3f36-9457-d2f1-f0a5af3bc3cd; 1.3; UK
+TRIVIA; This rock band from Liverpool is perhaps the greatest of the rock era. Band members were John Lennon, Paul McCartney, George Harrison and Ringo Starr
+QUESTION; TRUE;
+BOUGHT; Hey Jude | Let It Be | Come Together | Twist and Shout
+BOUGHT; The Long and Winding Road
+TRUE; Here Comes The Sun
+// 
+// BONUS_Q; Name the drummer of the Beatles. 2 words @ Ringo Starr | ringo star | ringo
+//
+//
+ARTIST; Bee Gees; **; BAND_BRIT; 58319357-163f-632e-e188-81f8a20424e6; 1.3; AUS
+TRIVIA; This British pop music trio of brothers formed in Australia was exceptionally successful as a rock act in the 60s and 70s, and as a disco music group in the 70s.
+QUESTION; TRUE;
+BOUGHT; Stayin' Alive | Too Much Heaven
+BOUGHT; Night Fever | How Deep Is Your Love
+TRUE; Jive Talkin'
+// 
+// 
+// 
+//
+ARTIST;  Belinda Carlisle; **; FV; 3355d321-9fbd-f14a-759c-20bbbbdf4374; 2.0; US 
+TRIVIA; Belinda Jo Carlisle  is an American singer who gained worldwide fame as the lead vocalist of The Go-Go's, one of the most successful all-female bands of all time.
+QUESTION; TRUE;
+TRUE; Heaven is a Place on Earth | I Get Weak
+TRUE; Mad About You
+//
+//
+//
+// 
+//
+ARTIST; The Bellamy Brothers; **; DUO_M; 0297f2dc-f47c-7b36-ec14-8345296e7c9e; 0.96; US 
+TRIVIA; This pop and country music duo of two brothers David and Homer from Florida found success in the '70s and '80s with the release one #1 pop single. 
+QUESTION; TRUE;
+BOUGHT; Let Your Love Flow
+TRUE; Old Hippie | Redneck Girl
+TRUE; If I Said You Had a Beautiful Body Would You Hold It Against Me
+//
+//
+//
+//
+ARTIST; Berlin; **; F_BAND; a2068308-5c7b-1019-f6f9-39060390f6d6; 0.75; US
+TRIVIA; Berlin is 5 member new wave band formed in Los Angeles in 1978. "Animal", a new album released in 2013 included their new single "It's The Way". 
+QUESTION; OTHER; Berlin's greatest success "Take My Breath Away" was the love theme sound tract for what Hollywood movie ?
+HINT; Two words. T?? ???
+TRUE; Top Gun
+FALSE; The Color of Money | Magnolia | Far and Away
+// ANSWER; Top Gun | topgun
+// BOUGHT; Take My Breath Away
+//
+//
+ARTIST; Bette Midler; **; FV; 9109b712-ee6f-ef86-722e-2e046a3179bb; 1.3; US
+TRIVIA; This singer-songwriter-actress's versatile career successes include 3 Grammy Awards 
+QUESTION; TRUE;
+BOUGHT; Wind Beneath My Wings | The Rose
+// TRUE; Midler's debut album was 'The Divine Miss M'
+// TRUE; Middler starred in the Broadway play 'Fiddler on the Roof' in the late '60s.
+// TRUE; Midler earned a Golden Globe for her film debut with 'The Rose'
+// FALSE; Midler starred in the film 'The Way We Were'
+//     
+//
+ARTIST; Bill Haley & His Comets; **; BAND; c6cca7c5-ea20-8290-af7a-8065a445f4dc; US 1.5
+TRIVIA; This American rock band founded in 1952 placed 9 singles in the Top 20
+QUESTION; TRUE;
+BOUGHT; Rock Around the Clock | Shake, Rattle and Roll | Razzle Dazzle 
+BOUGHT; R-O-C-K | See You Later, Alligator | The Saints Rock 'n RolL
+// 
+//  
+// 
+// 
+//
+ARTIST; Billy Idol; **; MV_BRIT; c0658a05-f914-2cdb-94ba-59bc14e1ebe3; 0.7; UK
+TRIVIA; This English rock musician and actor was a member of the "Second British Invasion" of the U.S.
+TRIVIA; Idol first achieved fame in the punk rock era as a member of the band Generation X. 
+QUESTION; TRUE;
+TRUE; Dancing With Myself | Rebel Yell
+TRUE; Eyes Without a Face
+// 
+// 
+//
+//
+ARTIST; Billy Joel; **; MV; cc7c086b-baa1-e44d-d092-15119d54091b; 1.7; US
+TRIVIA; This pianist-singer-songwriter from New York, born in 1949, became the third best-selling solo artist in the US
+QUESTION; TRUE;
+BOUGHT; She's Always a Woman | It's Still Rock and Roll To Me
+BOUGHT; Allentown | Uptown Girl
+BOUGHT; The Longest Time | We Didn't Start the Fire
+BOUGHT; Scenes from an Italian Restaurant | Only the Good Die Young
+// 
+// BONUS_Q; Which was Joel's first hit song ?  2 words @ Piano Man | pianoman
+//
+ARTIST; Billy Ray Cyrus; **; MV_CTRY; 339eb873-ef6f-af7b-16b7-b99e2e119dde; 1.0; US
+TRIVIA; This American singer, songwriter, and actor, father of Miley Cyrus, is better known for a #1 single that reached Platinum in Australia
+QUESTION; TRUE;
+BOUGHT; Achy Breaky Heart
+TRUE; Ready, Set, Don’t Go
+TRUE; Could’ve Been Me
+//
+//
+//
+//
+ARTIST; Blondie; **; F_BAND; 210e1bf4-92a3-8260-b6d8-4f597acff8a1; 1.0; US
+TRIVIA; This American rock band was a pioneer in the new wave and punk scenes of the mid-70s
+QUESTION; TRUE;
+BOUGHT; Heart of Glass | The Tide Is High
+TRUE; Call Me | Atomic
+// 
+// 
+// 
+//
+//
+ARTIST;Bob Acri
+TRIVIA;
+QUESTION;
+BOUGHT;Sleep Away
+FALSE;
+//
+//
+//
+//
+//
+ARTIST;  Bobby Vee; **; MV; 81a3e01e-ca21-eb7c-4a62-8b91e0b60b2f; 2.0; US 
+TRIVIA; Robert Thomas Velline (April 30, 1943 – October 24, 2016), known professionally as Bobby Vee, was an American rock and roll and pop singer who was a teen idol in the early 1960s.
+QUESTION; TRUE;
+TRUE; Take Good Care of my Baby | Rubber Ball
+TRUE; Come Back When You Grow Up
+//
+//
+//
+// 
+//
+ARTIST; Bob Dylan; **; MV
+TRIVIA; This American singer-songwriter's career spans five decades starting in the '60s. He was a member of the super group Traveling Wilburys
+QUESTION; TRUE;
+TRUE; Blowin' In the Wind | Like a Rolling Stone
+TRUE; Knockin' On Heaven's Door
+TRUE; The Times They Are a-Changin'
+// FALSE; Mrs. Robinson @    Simon & Garfunkel
+// FALSE; Mother and Child Reunion @ Paul Simon
+// FALSE; If I Had a Hammer @ Peter, Paul & Mary
+//
+ARTIST; Bob Marley & The Wailers; **; MV; 367bbe6d-a104-2abd-e146-f185e54b34d7; 1.0
+TRIVIA; A Jamaican reggae singer, songwriter and guitarist who achieved international fame as a pioneer of the reggae genre in the '60s and '70s. 
+QUESTION; TRUE; Bob Marley
+BOUGHT; Buffalo Soldier    
+TRUE; Three Little Birds | Is This Love 
+TRUE; Stir It Up | No Woman, No Cry
+// 
+// 
+// 
+//
+ARTIST; Bobbie Gentry; **; FV_CTRY; 83c94713-2924-c273-fdb7-010711066234; 1.5; US 
+TRIVIA; This Country and pop singer and songwriter, born in 1944 in Mississippi, earned a Grammy award for a 4 week No. 1 pop song, and had eleven more singles on the Billboard Hot 100
+QUESTION; TRUE; 
+TRUE; Ode to Billie Joe 
+TRUE; Mississippi Delta | Niki Hoeky | Chickasaw County Child 
+//
+//
+//
+//
+//
+ARTIST; Bobby Goldsboro; **; MV; e2ce4fd4-4200-7e8b-0d0c-7a7e3bb1577b; 1.0; US 
+TRIVIA; This American pop and country singer-songwriter born in 3941 in Florida, had a string of pop and country hits in the 60s and 70s, including a No. 1 hit that sold over one million copies in the US
+QUESTION; TRUE;
+BOUGHT; Honey
+TRUE; Watching Scotty Grow
+//
+//
+//
+//
+//
+ARTIST; Bobby Darin; **; MV; 13412436-ff91-e896-c154-b82f669a3a47; 1.48; US
+TRIVIA; This singer, songwriter, actor born in New York City in 1936, who had his first million-selling singe in 1958, died at age 37. Genres: jazz, pop, rock and country music
+QUESTION; TRUE;
+TRUE; Dream Lover
+TRUE; Beyond the Sea | Mack the Knife
+TRUE; Splish Splash
+//
+// 
+//TRUE; Dream Lover   // BOUGHT
+//
+ARTIST;Bobby McFerrin
+TRIVIA;An American vocalist and conductor is a ten-time Grammy Award winner
+QUESTION;
+BOUGHT;Don't Worry Be Happy
+TRUE;Black Bird
+TRUE; I Feel Good
+TRUE;Moondance
+TRUE;A-Train
+//
+//
+ARTIST; Bon Jovi; **; BAND; 4b8a833a-bdb4-e113-aca1-a1e56dcc8f13; 1.33; US
+TRIVIA; This rock band from New Jersey, 1983 to present, sold more than 100 million records worldwide. Genres: Rock, hard rock
+QUESTION; TRUE;
+BOUGHT; You Give Love a Bad Name | Livin' On a Prayer
+TRUE; Wanted Dead Or Alive | It's My Life
+// 
+// 
+// 
+// 
+//
+ARTIST; Bonnie Tyler; **; FV; e31d120c-bc8d-6667-7b95-0d444e7eb1ac; 1.5; UK
+TRIVIA; This Welsh singer known as the 'International First Lady of Rock' charted hits on two continents in genres from country music to rock in the '70s, to pop and soft rock in the '90s
+QUESTION; TRUE;
+BOUGHT; Holding Out for a Hero | It's a Heartache        
+TRUE; Total Eclipse of the Heart
+// 
+// 
+// 
+//
+//
+ARTIST; The Box Tops; **; BAND; 57492d09-2007-71cb-2e88-50d0b1390a48; 0.84; US 
+TRIVIA; This rock group formed in Memphis popular in the 60s is a blue-eyed soul group combining elements of soul music and pop
+QUESTION; TRUE;
+BOUGHT; The Letter
+TRUE; Cry Like a Baby | Soul Deep
+//
+//
+//
+//
+//
+ARTIST; Bread; **; BAND; 5ee79010-ea0f-4545-eeb1-87d772d1e062; 1.0; US
+TRIVIA; This soft rock band from California was popular in the 70s
+TRIVIA; This soft rock band placed 13 songs on the Billboard Hot 100 chart in the 70s
+QUESTION; TRUE;
+BOUGHT; Everything I Own | Make It With You
+TRUE; Baby I'm-A Want You | If
+// 
+// 
+// 
+//
+ARTIST; Bruce Channel; **; MV; 0ddf4670-3e1a-e0cb-d784-957bf8ce7093; 0.74; US
+TRIVIA; Pop singer b+`orn in 1940 in Texas, famous for his no. 1 single "Hey! Baby", which was used in a 1987 romantic musical film starring Patrick Swayze and Jennifer Grey 
+QUESTION; OTHER; The song played when Johnny and Baby danced on top of a tree's log. Name the film.
+TRUE; Dirty Dancing
+FALSE; Flashdance | Grease | Footloose
+//
+//
+//
+//
+//
+ARTIST; Bruce Springsteen; **; MV; 602be3ac-5d57-4592-288d-be3da293a86c; 1.5; US
+TRIVIA; An American singer-songwriter known for his work with the E Street Band
+TRIVIA; Springsteen holds the records for the most wins and nominations for Grammy Award for Best Rock Song
+QUESTION; TRUE; Springsteen
+BOUGHT; Dancing In the Dark
+TRUE; Born In The USA | I'm On Fire | Glory Days
+// 
+// 
+// 
+//
+ARTIST; Buddy Holly; **; MV; 9a916a2d-1f4c-b1ee-28db-09c18f15f077; 2.0; US 
+TRIVIA; Buddy Holly (born Charles Hardin Holley; September 7, 1936 – February 3, 1959) was an American musician and singer-songwriter who was a central figure of mid-1950s rock and roll. Holley was born in Lubbock, Texas, to a musical family during the Great Depression; he learned to play guitar and to sing alongside his siblings. 
+QUESTION; TRUE;
+TRUE; Peggy Sue | That'll be the Day | Everyday | Maybe Baby
+//
+//
+//
+//
+//
+// 
+ARTIST; Burt Bacharach & B.J. Thomas; **; MV; 372ea91c-dc48-df92-c230-877ed18b3d24; 1.0; US    
+TRIVIA; B.J. Thomas is a singer from Texas, born in 1942, who had numerous pop and country hits in the 60s and 70s, and sang in the movie Butch Cassidy and the Sundance Kid 
+QUESTION; TRUE; B.J. Thomas
+BOUGHT; Raindrops Keep Falling on My Head
+TRUE; Hooked On a Feeling | Another Somebody Done Somebody
+//
+//
+//
+//
+//
+ARTIST; The Byrds; **; BAND; 6bcc96a8-1196-1307-6d68-f7645a6fc5bd; 1.1; US
+TRIVIA; This rock band from California became on of the most successful bands of the '60s and pioneers of folk rock
+QUESTION; TRUE;
+BOUGHT; Turn! Turn! Turn! (To Everything There Is a Season)
+TRUE; Mr. Tambourine Man | My Back Pages
+// FALSE; Heart of Glass @ Blondie
+// FALSE; Midnight Confessions @ The Grass Roots 
+// FALSE; Sweet Dreams (Are Made of This) @ Eurythmics
+//
+//
+ARTIST;
+// MUSIC WIKI C - 3-17-2017
+C,10,330
+//  
+//  
+// BAND    | BAND_BRIT | DUO_MF | DUO_M    
+// FV   | F_BAND    | FV_CTRY         F_BAND = female mixed
+// MV    | MV_BRIT   | MV_CTRY
+// 
+// 
+//
+ARTIST; C.W. McCall; **; MV_CTRY; ; 1.33; US
+TRIVIA; An American country singer made famous mostly by his highway trucking songs
+QUESTION; TRUE; McCall
+BOUGHT; Convoy
+TRUE; 'Round the World with the Rubber Duck
+TRUE; Wolf Creek Pass | Four Wheel Drive
+// 
+// 
+// 
+//
+ARTIST;Calimbo Steel Band
+TRIVIA;
+QUESTION;
+BOUGHT;Mambo #5
+//
+//
+//
+//
+//
+//
+ARTIST;Calypso Party
+TRIVIA;
+QUESTION;
+BOUGHT;The Parrots Song
+//
+//
+//
+//
+//
+//
+ARTIST; Captain & Tennille; **; DUO_MF; ea0d86ae-aaa1-3b1b-587f-0386c75d0ff5; 1.0; US
+TRIVIA; This American husband-and-wife duo recorded five gold albums in the '70s and hosted their own television variety series. Genres; adult Contemporary, pop 
+QUESTION; TRUE;
+BOUGHT; Love Will Keep Us Together | Shop Around
+TRUE; Do That to Me One More Time
+TRUE; Muskrat Love | The Way I want to Touch You
+//
+//
+//
+//
+ARTIST; Carly Simon; **; FV; 4d3537a6-caf4-f12d-d566-dd39334ec3bf; 0.9; US
+TRIVIA; This singer-songwriter from New York who rose to fame in the 70s had a No. 1 single on the US Pop charts, and was inducted into the Grammy Hall of Fame in 2004
+QUESTION; TRUE;
+BOUGHT; You're So Vain
+TRUE; Nobody Does It Better | Jesse
+// QUESTION; TRUE; Media Buzz about her iconic song 'You're So Vain' is what ?
+// TRUE; Identity of the celebrity who is 'so vain'
+// FALSE; 'Wardrobe malfunction' and nudity on stage
+// FALSE; Copyright dispute
+//
+ARTIST; Carole King; **; FV; c351653a-8c43-7fdd-c0e0-26d9ff973de9; 1.25; US
+TRIVIA; This grammy-award-winning American singer-songwriter wrote 118 pop hits that charted on the Billboard Hot 100
+TRIVIA; King has won four Grammy Awards and was inducted into the Songwriters Hall of Fame and the Rock and Roll Hall of Fame
+QUESTION; TRUE;
+BOUGHT; It's Too Late
+BOUGHT; Will You Love Me Tomorrow?
+TRUE; Now and Forever | Child of Mine
+// 
+// 
+//
+ARTIST; Carpenters; **; DUO_MF; 5c32929c-3b78-4f4f-c901-16c42a8e088c; 0.85; US
+TRIVIA; This vocal and instrumental duo of siblings Karen and Richard from California had a 14-year career in pop and soft rock which ended in 1983 with Karen's untimely death. They recorded 31 singles and a TV series 
+QUESTION; TRUE;
+BOUGHT; Rainy Days and Mondays | We've Only Just Begun | Hurting Each Other
+BOUGHT; (They Long to Be) Close to You | Top of the World
+//
+//
+//
+//
+//
+ARTIST; Carrie Underwood; **; FV; 6c1de292-29b9-d7b7-28e6-4772432bb6be; 1.34; US
+TRIVIA; This singer, songwriter and actress born in Oklahoma in 1983, rose to fame as an American Idol winner, won 7 Grammy Awards among others and was inducted into the Grand Ole Opry
+QUESTION; TRUE;
+TRUE; Cowboy Casanova
+TRUE; Jesus, Take the Wheel | Before He Cheats | Blown Away
+//
+//
+//
+//
+//
+ARTIST; Cat Stevens; **; MV_BRIT; 961a4dce-b984-bee7-2260-3f9a07fd98e3; 1.0; UK
+TRIVIA; This British singer-songwriter, musician was inducted into the Rock and Roll Hall of Fame in 2014. Genres; Folk rock, psychedelic rock
+QUESTION; TRUE;
+BOUGHT; Morning Has Broken
+TRUE; Wild World | Peace Train
+TRUE; Moonshadow | Father and Son
+//        
+// 
+// 
+//
+ARTIST; Céline Dion; **; FV; 9e541027-f803-1fa9-0776-e5735c151b97; 1.0; CAN
+TRIVIA; This Canadian singer, who has charted numerous hits in French and English spanning many genres from rock and R&B to gospel and classical, has won five Grammy Awards
+QUESTION; TRUE;
+BOUGHT; Because You Loved Me
+TRUE; My Heart Will Go On | Taking Chances
+TRUE; It's All Coming Back to Me Now
+// 
+// 
+// 
+//
+ARTIST; Celtic Woman; **; F_BAND; f93b58ec-d258-dcc3-a974-89c1e1e4025f; 1.0;
+TRIVIA; This all-female Irish musical ensemble of five Irish female musicians (four vocalists and a fiddler) plays traditional Celtic songs as well as modern tunes
+QUESTION; TRUE;
+BOUGHT; Spanish Lady (Live from Slane Castle)
+TRUE; You Raise Me Up
+//
+//
+//
+//
+//
+ARTIST; Chad & Jeremy; **; BAND_BRIT; 25fbe8c1-016c-2ecd-0967-c64fae4ca259; 1.0; UK
+TRIVIA; Chad and Jeremy are an English singing folk rock duo originating in the 1960s.
+QUESTION; TRUE;
+BOUGHT; Yesterday's Gone | A Summer Song
+TRUE; Everyone's Gone To The Moon
+// 
+// 
+// 
+// 
+//
+ARTIST; Charlie Rich; **; MV_CTRY; 25fbe8c1-016c-2ecd-0967-c64fae4ca259; 1.0; US
+TRIVIA; This singer and musician from Arkansas (1932 – 1995), nicknamed the Silver Fox, won two Grammy Awards for a pair of 1973 Country hit singles. Genres: Country, rockabilly, blues
+QUESTION; TRUE;
+BOUGHT; Behind Closed Doors | The Most Beautiful Girl
+TRUE; Rollin' With the Flow 
+// 
+// 
+// 
+// 
+//
+ARTIST; Cher; **; FV; dd5bf347-8c74-34d7-0f38-8d47a1cb1aa6; 1.0; US
+TRIVIA;This singer/actress has won an Academy Award, Grammy and Emmy Awards
+QUESTION; TRUE;
+BOUGHT; Gypsies, Tramps and Thieves
+TRUE; Believe | If I Could Turn Back Time
+//
+// QUESTION; DIALOG; Cher won an award for Best Actress in what film ?
+// HINT; One word. Nicolas Cage was her co-star in this romantic comedy
+// ANSWER; Moonstruck | moon struck | moonstruk
+//
+ARTIST; Chic; **; BAND; e1f64c7f-6842-3b22-9da9-36f70dcb8908; 1.0; US
+TRIVIA; This band from New York, known as the rock band for disco, had numerous hits in the late 70s and was nominated for the Rock and Roll Hall of Fame 10 times
+QUESTION; TRUE;
+BOUGHT; Good Times (Original 12" Mix) | Le Freak
+TRUE; I Want Your Love | Everybody Dance
+//
+//
+//
+//
+//
+ARTIST; Chicago; **; BAND; 64bcf345-1d39-1d3e-7775-16409bb71075; 1.43; US
+TRIVIA; This rock and soft rock band from Chicago, 1967 to present, charted numerous hits throughout the '70s and '80s, and has a career record of five # one albums and 21 top-ten singles
+QUESTION; TRUE;
+BOUGHT; You're the Inspiration
+TRUE; If You Leave Me Now | 25 or 6 to 4 | Colour My World 
+TRUE; Hard to Say I'm Sorry / Get Away | Saturday In the Park
+// 
+// 
+// 
+//
+ARTIST; Chubby Checker; **; MV; bbc5bc5c-94cb-4f42-c563-acc38ba9d388; 1.0; US
+TRIVIA; This American singer-songwriter born in 1941 is  widely known for popularizing the twist dance style,  
+QUESTION; TRUE;
+BOUGHT; The Twist | Limbo Rock 
+BOUGHT; Let's Twist Again | Pony Time
+// *
+//  
+//
+//
+//
+ARTIST; Chuck Berry; **; MV; 78e3da62-2dad-ffdf-71de-59d184ca18e3; 1.0; US
+TRIVIA; This American guitarist-singer-songwriter born in 1926 is one of the pioneers of rock and roll 
+QUESTION; TRUE;
+BOUGHT; Maybellene | Rock and Roll Music
+BOUGHT; Johnny B. Goode | Sweet Little Sixteen
+BOUGHT; No Particular Place to Go | My Ding-A-Ling
+// *
+// 
+// 
+//
+ARTIST; The Clancy Brothers & The Dubliners 
+BOUGHT;  Whiskey In the Jar 
+CHOICE= 1) Beer, Beer, Beer
+CHOICE= 1) The Wild Rover
+//
+//
+//
+//
+//
+//
+ARTIST; The Clancy Brothers & Tommy Makem
+BOUGHT; The Wild Rover 
+CHOICE= 1) Whiskey In the Jar
+CHOICE= 1) Beer, Beer, Beer
+//
+//
+//
+//
+//
+//
+ARTIST; Cliff Richard; **; MV_BRIT; 65350a75-c11d-30ec-95c5-4fee7bea5e77; 1.0; UK            
+TRIVIA; This British pop singer and musician whose career lasted 50 years was a top selling artist with mutiple gold albums in the UK, who also had eight US Top 40 hits 
+QUESTION; TRUE;
+BOUGHT; Devil Woman
+TRUE; We Don't Talk Anymore
+//
+//
+//
+//
+//
+ARTIST; Communards; **; BAND_BRIT; ab33065c-2489-5dd0-02d1-2ee847a2522a; 1.33; UK
+TRIVIA; This British pop duo from the 80s had a UK #1 hit that became the country's biggest selling single of 1986
+QUESTION; TRUE;
+BOUGHT; Don't Leave Me This Way (with Sarah Jane Morris)
+TRUE; Never Can Say Goodbye | Disenchanted
+TRUE; You Are My World
+// 
+//
+//
+//
+ARTIST; Connie Francis; **; FV; dbe5197e-5414-1780-8929-7e42706b5bb0; 1.0; US
+TRIVIA; This pop singer from an Italian Neighborhood in New Jersey was a top female vocalist of the 50s and 60s and is still active today at age 76
+QUESTION; TRUE;
+BOUGHT; Who's Sorry Now? | Mama
+TRUE: Where The Boy Are | Lipstick On Your Collar
+//
+//
+//
+//
+//
+ARTIST; Connie Vannett; **; FV; 2123051e-88aa-58f6-9e64-a34ca8aa304a; 1.3; US
+TRIVIA; Synonyms : Pussy - cunny - twat - cooter 
+QUESTION; OTHER; Lizzy the Les recencly lost her cherry :(. Last virgin to fall. Question is TO WHOM? 
+TRUE; Mandi
+FALSE; Randy the ape | Jami Starbright | Emma
+// BOUGHT; The Pussy Cat Song
+//
+//
+//
+//
+ARTIST; Conway Twitty; **; MV_CTRY;  
+TRIVIA; This singer, born  Mississippi in 1933, was successful first in pop and rock 'n' roll before turning to country where he reached the top of the Billboard chart a record 55 times and was inducted into Country Music Hall of Fame.
+QUESTION; TRUE;
+TRUE; The Rose
+TRUE; Hello Darlin'
+TRUE; Slow Hand
+//
+//
+//
+//
+ARTIST; Conway Twitty & Loretta Lynn; **; DUO_MF; 0e8832a5-7337-651c-d90b-5a295596904a; 1.26; US
+TRIVIA; This American country music duo had five #1 hits on the Hot Country Singles Billboard
+QUESTION; TRUE; Twitty & Lynn
+BOUGHT;Louisiana Woman Mississippi Man
+TRUE; We Only Make Believe | Feelin's 
+TRUE; After the Fire Is Gone
+// 
+// 
+//
+//
+ARTIST; The Country Dance Kings
+TRIVIA;
+QUESTION;
+BOUGHT; Swaying To The Music (Slow Dancing)
+// 
+//
+//
+//
+//
+//
+ARTIST; Cream; **; BAND_BRIT; 94581d05-d657-924b-592e-f95337c7d5f1; 1.0; UK
+TRIVIA; This British blues rock and hard rock trio of the 60s, considered to be the world's first successful supergroup, was inducted into the Rock and Roll Hall of Fame in 1993
+QUESTION; TRUE
+BOUGHT; Sunshine of Your Love
+TRUE; White Room | Strange Brew
+//
+//
+//
+//
+//
+ARTIST; Creedence Clearwater Revival; **; BAND; 1c3e1023-c955-fdf5-c0f5-2899fd488a28; 1.2; US
+TRIVIA; This American rock band popular in the late 60s and 70s was inducted into the Rock and Roll Hall of Fame in 1993.
+QUESTION; TRUE; Creedence
+BOUGHT; Bad Moon Rising | Have You Ever Seen the Rain | Cotton Fields
+BOUGHT; Lookin' Out My Back Door
+TRUE; Down On the Corner | Proud Mary
+// 
+// 
+// 
+//
+ARTIST; Crystal Gayle; **; FV_CTRY; 99afae99-3511-e996-4976-7c492f9b4329; 1.0; US 
+TRIVIA; This country singer is famous for her nearly floor-length hair
+TRIVIA; Gayle racked up 20 #1 country hits during the 70s and 80s 
+QUESTION; TRUE; 
+BOUGHT; Don't It Make My Brown Eyes Blue
+TRUE; Why Have You Left the One You Left Me For | Half the Way
+// Crystal is the youngest sister of what other country singer ? 
+// TRUE; Loretta Lynn
+// FALSE; Dolly Parton | Barbara Mandrell
+//
+ARTIST; The Crystals; **; F_BAND; da6d6c8c-bfc4-02c2-4a78-5a9bc99b54e9; 1.38; US
+TRIVIA; This vocal group from New York became one of the most successful of the "girl group era" of the '60s
+QUESTION; TRUE;
+BOUGHT; Da Doo Ron Ron | Then He Kissed Me
+TRUE; Chapel Of Love | He's a Rebel
+//
+//
+//
+//
+//
+ARTIST; Culture Club; **; BAND_BRIT; abc83dff-913c-4320-30a3-c08638242f2f; 1.28; UK
+TRIVIA; This English band formed in 1981 had one album that was certified quadruple platinum. Genres: new wave, pop, rock
+QUESTION; TRUE;
+BOUGHT; Karma Chameleon 
+TRUE; Do You Really Want to Hurt Me | I'll Tumble 4 Ya
+//
+// QUESTION; DIALOG; The band's lead singer is the androgynous star B?? G?????
+// HINT; Give 2 missing words
+// ANSWER; Boy George | boy georges | boy giorge
+//
+ARTIST; Cyndi Lauper; **; FV; 8f15045f-9410-a9b7-d82d-99621e60b75a; 1.0; US 
+TRIVIA; This American singer-songwriter and actress born in 1953 has released over 40 singles 
+TRIVIA; Lauper's solo album "She's So Unusual" was the first debut album to chart 4 top-five hits on the Billboard Hot 100—Girls 
+QUESTION; TRUE; Lauper
+BOUGHT; Time After Time
+TRUE; Girls Just Want to Have Fun | True Colors
+//
+//
+//
+//
+ARTIST;
+// MUSIC WIKI D - 11-26-2016
+D,10,250
+//  
+//  
+// BAND    | BAND_BRIT | DUO_MF | DUO_M    
+// FV   | F_BAND    | FV_CTRY         F_BAND = female mixed
+// MV    | MV_BRIT   | MV_CTRY
+// 
+// 
+//
+ARTIST;D'Caro Groove
+TRIVIA;
+QUESTION;
+BOUGHT;Charriots of Fire 2012 (Olympic Games Fast Beat Mix) 
+// FALSE;
+//
+//
+//
+//
+//
+ARTIST; Daryl Hall & John Oates; **; DUO_M; 781faa65-28ab-04ef-edec-56677ea4d6ba; 1.0; US
+TRIVIA; This duo of musicians from Philadelphia, also known as Hall & Oates, most famous in mid 80s were named  the most successful duo of the rock era by Billboard magazine
+QUESTION; TRUE;
+BOUGHT; Maneater
+TRUE; Rich Girl | Kiss on My List
+TRUE; I Can't Go for That (No Can Do) | Out of Touch
+//
+//
+//
+//
+ARTIST; David Bowie; **; MV_BRIT; 557830a9-33a7-0182-f0a3-0a3fcdcc3a52; 1.6; UK
+TRIVIA; We mourn the recent passing of this English musician, singer-songwriter, actor who has been a major figure in popular music for over four decades 
+QUESTION; TRUE;
+BOUGHT; Let's Dance
+TRUE; Space Oddity |Fame | Life on Mars?
+// 
+// 
+// 
+// BONUS_Q; Which was Bowie's first American #1 single ? @ Fame | faim
+//
+ARTIST; David Nall; **; MV_CTRY; US 
+TRIVIA; This country music singer-songwriter born in 1979 in Missouri, active 2002 to the present, racked a No. 1 hit in 2012
+QUESTION; TRUE;
+BOUGHT; All My Exes Live In Texas     
+TRUE; Kiss You Tonight | Whatever She's Got
+TRUE; Red Light | Turning Home 
+// 
+// 
+// 
+//
+ARTIST; David Naughton; **; MV; 916b0b53-4d3a-460e-cd8d-ef753ab3da40; 1.19; US    
+TRIVIA; An American actor and singer best known for his starring roles in various Hollywood films, the sitcom Makin' It, and singing TV commercials for Dr Pepper
+QUESTION; OTHER; Dr. Pepper ended its advert relationship with Naughton after he appeared nude in this Academy Award-winning horror film
+TRUE; An American Werewolf in London
+FALSE; Krampus | The Lost Boys
+FALSE; Jennifer's Body | Young Frankenstein
+// BOUGHT; Makin' It
+//
+//
+//
+ARTIST; Dean Martin; **; MV; 6674118b-31bd-4471-6621-ae05491384ce; 1.46; US
+TRIVIA; The "King of Cool" was an American singer, actor, comedian born in 1917. Dean was a member of the famous 'Rat Pack'
+QUESTION; TRUE; 
+BOUGHT; Mambo Italiano | Luna Mezzo Mare
+TRUE; Memories Are Made of This | That's Amore 
+TRUE; Everybody Loves Somebody | Sway | Volare
+// 
+// 
+//
+//
+ARTIST; Deep Purple; **; METAL; ac9827f3-ed31-13a7-ee1d-af1e24c3106e; 1.33; UK
+TRIVIA; This band formed in 1968, one of the "unholy trinity of British heavy metal" in the 70s and holder of the Guinness record for "globe's loudest band", were inducted into the Rock and Roll Hall of Fame in 2016
+QUESTION; TRUE;
+TRUE; Highway Star | Hush 
+TRUE; Smoke On the Water | Space Truckin'
+//
+//
+//
+//
+//
+ARTIST; Def Leppard; **; METAL; dd3d52c2-959e-6562-6d46-82421c83fc6a; 1.15; UK
+TRIVIA; This English rock band formed in 1977 was part of the British heavy metal movement and had numerous top hits in the early 80s and 90s
+QUESTION; TRUE;
+TRUE; Pour Some Sugar on Me | Hysteria | Love Bites 
+TRUE; Animal | Photograph
+//
+//
+//
+//
+//
+ARTIST; Devo; **; BAND; 352ed9b4-f48b-dcba-5555-61f67d891aeb; 1.0; US 
+TRIVIA; This American new wave and punk rock band who charted in 1980 had a line up which included two sets of brothers
+QUESTION; TRUE;
+BOUGHT; Whip It
+TRUE; Working In a Coal Mine | Gut Feeling | Girl U Want
+//
+//
+//
+//
+//
+ARTIST; Diana Ross; **; FV; 1dd22733-4df3-c6d6-cf93-48f3d5b27faa; 1.0; US
+TRIVIA; A singer and actress from Detroit who rose to fame as lead singer of The Supremes, Motown's most successful vocal group of the '60s 
+QUESTION; TRUE; Diana
+BOUGHT; I'm Coming Out | I'm Coming Out | Touch Me In the Morning
+//
+//
+//
+//
+//
+//
+ARTIST; Diana Ross & Lionel Richie; **; DUO_MF; 35d4bc57-b5f2-2727-2c26-e60206212172; 1.33; US     
+TRIVIA; 'Endless Love' is a ballad written by Lionel Richie originally sung as a duet with Diana Ross. It ranks number 13 on Billboard's All Time Top 100.
+QUESTION; OTHER; The song was used as the theme for the 1981 film 'Endless Love' starring this actress:
+TRUE; Brooke Shields. 
+FALSE; Bo Derek | Meryl Streep | Nicole Kidman 
+// BOUGHT; Endless Love
+//
+//
+//
+//
+ARTIST; DIO; **; METAL; 4595cf98-c309-b0d6-50fd-c65b59bce3ad; 1.3; US
+TRIVIA; This heavy metal band from New York (active 1982 - 2010) by vocalist Ronnie Dio, after leaving Black Sabbath, has sold more than 10 million albums
+QUESTION; TRUE;
+TRUE; Rainbow in the Dark | Holy Diver
+TRUE; Stand Up and Shout | The Last in Line
+//
+//
+//
+//
+//
+ARTIST; Dire Straits; **; BAND_BRIT; b166cdb0-ca0a-5b93-44cd-83ee19db8c66; 1.0; UK
+TRIVIA; This British rock band formed in 1977 won four Grammy Awards, three Brit Awards,and two MTV Video Music Awards
+QUESTION; TRUE; 
+BOUGHT; Money for Nothing | Walk of Life
+TRUE; Sultans of Swing
+//
+//
+//
+//
+//
+ARTIST;DJ Jose Spinnin Cortes
+TRIVIA;
+QUESTION;
+BOUGHT;La Bomba 
+// FALSE;
+//
+//
+//
+//
+//
+ARTIST; Dolly Parton; **; FV_CTRY; 4aa1b0ee-bbfe-7ef4-611d-54ebca9ac920; 0.8; US
+TRIVIA; This American singer-songwriter, actress, is the most honored female country performer of all time
+TRIVIA; Dolly has had 25 No. 1 songs  on the Billboard Country charts, a record for a female artist.
+TRIVIA; Dolly began her career as a child performer on the radio, then recording a few singles from the age of 13 
+QUESTION; TRUE; Dolly 
+BOUGHT; 9 To 5 | Jolene
+TRUE; I Will Always Love You
+// 
+// 
+//
+ARTIST; Dolly Parton & Kenny Rogers; **; DUO_MF; d2501ea6-b972-6504-8182-afe67fb4ed9e; 0.98; US
+TRIVIA; 'Islands in the Stream', the duet by Parton and Rogers, which reached #1 on the Billboard Hot 100 chart, is a song written by Bee Gees
+QUESTION; TRUE; 
+// BOUGHT; Islands in the Stream
+TRUE;  A Christmas to Remember | Christmas Without You
+//
+//
+//
+//
+//
+ARTIST; Don Ho; **; MV; 389d4f71-ffd9-5f82-19cb-8143d7ded1fe; 0.8; US
+TRIVIA; This pop singer and musician from Hawaii, (1930 – 2007) famous in the 60's and 70's had his own Tv series “The Don Ho Show". 
+QUESTION; TRUE;
+TRUE; Tiny Bubbles
+TRUE; Pearly Shells
+TRUE; Suck 'Um Up
+TRUE; I Love The Simple Folk
+TRUE; The Windward Side
+TRUE; Happy Me
+TRUE: Who Is the Lolo Who Stole My Pakalolo
+ARTIST; Don McLean; **; MV; 15e7d705-a97b-92b3-96bc-599953d4f4af; 1.33; US
+TRIVIA; This singer-songwriter born in 1945,one of America’s most enduring, was inducted into the Songwriters’ Hall of Fame in 2004  
+QUESTION; TRUE;
+BOUGHT; American Pie 
+TRUE; And I Love You So | Vincent
+// QUESTION;IF;
+// THEN; American Pie | McLean's famous album American Pie included the song <Vin????>, a tribute to a 19th-century Dutch painter = Vincent | cent 
+// THEN; Vincent | McLean's greatest single was American ??? = Pie | pi | py
+// HINT; Enter the missing word
+//
+ARTIST; Donna Fargo; **; FV_CTRY; d39248bd-d0bb-0f41-8149-749910ad9daf; 1.4; US             
+TRIVIA; This country singer-songwriter from North Carolina who charted multiple Top 10 country hits in the '70s has won a Grammy Award and five Academy of Country Music awards
+QUESTION; TRUE; 
+BOUGHT; The Happiest Girl in the Whole U.S.A.
+TRUE; You Can't Be a Beacon If Your Light Don't Shine | Funny Face
+//
+//
+//
+//
+//
+ARTIST; Donna Summer; **; FV; 533b9804-0b30-15e0-f98d-ad7b08612948; 1.778; US
+TRIVIA; This singer and songwriter (1948 – 2012) from Boston, known as the "Queen of Disco in the late 70s, earned a total of 14 top ten hits, won the Grammy Awards five times, and was inducted into the Rock and Roll Hall of Fame
+QUESTION; TRUE
+BOUGHT; Bad Girls | Hot Stuff
+TRUE; Last Dance | MacArthur Park
+TRUE; Dim All the Lights | On the Radio
+//
+//
+//
+//
+ARTIST; The Doors; **; BAND; ac0eb4a9-49ea-734d-60a4-9ad9a115c7a6; 0.8; US
+TRIVIA; This American rock band formed in 1965 in Los Angeles had three million-selling singles in the U.S. from three early hits. They are famous for their controversial lyrics and psychedelic rock, blues rock music
+QUESTION; TRUE;
+BOUGHT; Light My Fire
+TRUE; Hello, I Love You
+TRUE; Touch Me
+//
+//
+//
+//
+ARTIST;Doris Day
+TRIVIA;
+QUESTION;
+BOUGHT;Que Sera; Sera 
+// FALSE;
+//
+//
+//
+//
+//
+ARTIST; Dr. Hook; **; BAND; 3c625b16-0da0-ba57-0888-9763990a873c; 1.0; US
+TRIVIA; This soft rock band from New Jersey active 1967-1985 had eight years of chart hits, in the U.S. and the UK, in the '70s 
+QUESTION; TRUE;
+BOUGHT; When You're in Love with a Beautiful Woman
+TRUE; Sylvia's Mother | Sharing the Night Together | Sexy Eyes
+TRUE; Cover of the Rolling Stone | A Little Bit More
+//
+//
+//
+//
+ARTIST; The Dubliners
+TRIVIA;
+QUESTION;
+BOUGHT;Drink It Up Men
+// FALSE;
+//
+//
+// 
+//
+//
+ARTIST; Duran Duran; **; BAND_BRIT; UK
+TRIVIA; This English rock group formed in 1978 was a leading band in the "Second British Invasion" of the US
+TRIVIA; This band's videos, which included nudity and sexuality, were popular in the 1980s on  MTV
+TRIVIA; Duran Duran has 14 singles in the Top 10 of the UK Singles Chart and 21 in the Billboard Hot 100
+QUESTION; TRUE;
+BOUGHT; Hungry Like the Wolf
+TRUE; Falling Down | Come Undone
+//
+// BONUS_Q; Duran Duran was formed in what city ? B???????am @ Birmingham | birmingam
+// 
+ARTIST; Dusty Springfield; **; FV; 6de92c88-26c7-ec64-4f74-a840ddc55155; 1.5; UK
+TRIVIA; This English pop and blue-eyed soul singer, became a onetime best-selling female singer in the world with six top 20 singles on the US Billboard Hot 100 from 1963 to 1989. She was inducted in the US Rock and Roll and UK Music Halls of Fame. 
+QUESTION; TRUE;
+BOUGHT; Son of a Preacher Man
+TRUE; I Only Want to Be with You | Wishin' and Hopin
+TRUE; You Don't Have to Say You Love Me | What Have I Done to Deserve This?
+//
+//
+//
+//
+ARTIST;
+// MUSIC WIKI EFG - 05-20-2017
+E,10,150,F,150,270,G,270,420
+//   
+// 
+// BAND    | BAND_BRIT | DUO_MF | DUO_M    
+// FV   | F_BAND    | FV_CTRY         F_BAND = female mixed
+// MV    | MV_BRIT   | MV_CTRY
+//
+//
+// 
+ARTIST; Eagles; **; BAND; c4885b00-5622-714e-41ba-fd570d3eb5c2; 1.5; US 
+TRIVIA; This rock band from California was one the most successful groups of the '70s.
+The recently deceased Glenn Frey was a founding member, lead guitarist and one of the primary singers
+// It charted five number one singles and received six Grammy Awards. 
+QUESTION; TRUE; the Eagles
+BOUGHT; Hotel California        
+TRUE; Lyin' Eyes | Take It to the Limit
+TRUE; Life In the Fast Lane | Take It Easy
+// BONUS_Q; Eagles won first Grammy with what song ? @ Lyin' Eyes | lying eyes | lieing eyes
+//
+ARTIST; Eddie Rabbitt; **; MV_CTRY; 64443f85-9377-8195-257a-53e897990c0f; 1.0; US
+TRIVIA; This country music singer and songwriter from NY, born in 1941, who rose to fame after composing the hit song 'Kentucky Rain' for Elvis Presley, died at age 56
+QUESTION; TRUE; 
+BOUGHT; I Love A Rainy Night | Drivin' My Life Away
+TRUE; You and I
+//
+//
+//
+//
+//
+ARTIST; Edison Lighthouse; **; BAND_BRIT; 4ec6b4b2-e3f6-adbd-dfd4-c890b2b22cb5; 1.0; UK
+TRIVIA;  This British pop group had a number 1 hit in the UK in 1970. but only 2 worldwide hit songs in all. 
+QUESTION; TRUE; 
+BOUGHT; Love Grows (Where My Rosemary Goes)
+TRUE; It's Up to You, Petula
+//
+//
+//
+//
+//
+ARTIST; Edith Piaf
+TRIVIA;
+QUESTION;
+BOUGHT;La Marseillaise 
+// 
+//
+//
+//
+//
+//
+ARTIST; Edward Bear; **; BAND; 60748a46-7294-7592-d09e-b5deb0c8a488; 1.0; CAN 
+TRIVIA; Edward Bear was a Toronto-based Canadian pop-rock group.
+QUESTION; TRUE;
+TRUE; Last Song | You Me And Mexico
+TRUE; Fly Across the Sea | Masquerade
+//
+//
+//
+// 
+//
+ARTIST; Electric Light Orchestra; **; BAND_BRIT; b80130f8-b8bd-ae7c-9d86-d6713b4c3e1a; 2.0; UK
+TRIVIA; This British rock group from Birmingham, founded by lead singer Jeff Lynne, created rock and pop songs with classical overtones and had a record 20 Top 40 hits in the US from 1972 to 1986
+QUESTION; TRUE; ELO
+BOUGHT; Evil Woman 
+TRUE; Don't Bring Me Down | Do Ya | Mr. Blue Sky
+// 
+// BONUS_Q; Their song 'Livin' Thing' was used in this 1997 movie when actor Mark Wahlberg's porn star wore a monster strap on penis.
+// BONUS_A; Boogie Nights | boogy nights | boogie nites
+// 
+// 
+ARTIST; Elton John; **; MV_BRIT; 1c145bee-183b-3cdb-f989-54df837b587a; 0.8; UK
+TRIVIA; Sir Elton is an English singer-songwriter, composer, musician, and one of the best-selling music artists in the world
+TRIVIA; Sir Elton has more than fifty Top 40 hits and the most No.1 hits on US Adult Contemporary Chart  
+QUESTION; TRUE; Sir Elton
+BOUGHT; Bennie and the Jets | Crocodile Rock
+BOUGHT; Daniel | I Guess That's Why They Call It the Blues
+//
+//
+//
+//
+ARTIST; Elvis Presley & The Jordanaires; **; BAND; US
+TRIVIA; The Jordanaires were a vocal quartet from Missouri who sang with Elvis and appeared in some of The King's movies
+QUESTION; TRUE; Elvis & The Jordanaires
+BOUGHT; I Got Stung 
+TRUE; Viva Las Vegas | Bossa Nova Baby | Are You Lonesome Tonight? 
+//
+// BONUS_Q; The Jordanaires were formed as a G????? group in 1948. A musical "genre" associated with Elvis' childhood. ? Starts with a G
+// BONUS_A; Gospel
+//
+//
+ARTIST; Elvis Presley; **; MV; a5ea04ab-9804-2ea1-d298-cee8dd9d754b; 0.8; US
+TRIVIA; This American singer, musician, and actor born in 1935 began his music career when he was 13 years old. 
+TRIVIA; Elvis never received formal music training or learned to read music
+QUESTION; TRUE; Elvis
+BOUGHT; Blue Suede Shoes | Always On My Mind | Jailhouse Rock
+BOUGHT; Can't Help Falling In Love | Suspicious Minds | Burning Love 
+BOUGHT; Love Me Tender
+// 
+// 
+//
+ARTIST; Engelbert Humperdinck; **; MV_BRIT; 9f3b3d9f-5e63-3a50-19ab-a15f30fe222e; 1.0; UK
+TRIVIA; This famous British balladeer had two number one singles on the UK music charts in 1967, and is best know in the US for his 1976 hit single.  
+QUESTION; TRUE; Engelbert
+BOUGHT; After the Lovin'| The Last Waltz | Release Me
+//
+//        
+//
+//
+//
+//
+ARTIST; Eric Clapton; **; MV_BRIT; 3b1772f4-f7e8-b97b-134e-6f2555c97610; 0.8; UK 
+TRIVIA; This English musician and singer-songwriter was ranked in second place in Rolling Stone magazine's list of the "100 Greatest Guitarists of All Time" 
+QUESTION; TRUE;
+BOUGHT; I Shot the Sheriff
+TRUE; Wonderful Tonight | Cocaine | Tears In Heaven
+//  
+// BONUS_Q; Clapton's 'It's in the Way That You Use It' was a soundtrack in the Tom Cruise – Paul Newman film: The Color of ????? @ Money | mony
+// QUESTION; DIALOG; Clapton's version of "I Shot the Sheriff" was inducted into the Grammy // Hall of Fame. But that song was written by what other songwriter/singer ? // HINT; Bob ??????. Give last name. 6 letters
+// ANSWER; Bob Marley | Marley | marlie
+//
+ARTIST; Europe; **; BAND; 66f9d54f-8319-a319-cbe8-b72a2a9c72bc; 1.4; SWE
+TRIVIA; This rock band formed in Stockholm in 1979 by 4 vocalist/musicians has released multiple studio and live albums and videos, and charted two top ten singles. 
+QUESTION; TRUE;
+TRUE; The Final Countdown | Carrie
+TRUE; Rock the Night
+//
+//
+//
+//
+//
+ARTIST; Eurythmics; **; DUO_MF; aaa010e1-f599-16fb-71cb-2e5d761051e0; 1.0; UK
+TRIVIA; A British music duo associated with the Second British Invasion of the US
+TRIVIA; The Lennox and Stewart duo first played together in the punk rock band "The Catch"
+QUESTION; TRUE; the Eurythmics
+BOUGHT; Sweet Dreams (Are Made of This)
+TRUE; Here Comes The Rain Again | Would I Lie to You? 
+// 
+// 
+//
+//
+ARTIST; The Everly Brothers; **; DUO_M; 308e192d-efb0-f1cc-e1eb-78972fd1acdc; 1.04; US
+TRIVIA; This group of brothers and country-influenced rock and roll singers from Iowa, active in the 60s and 70s, were elected to the Rock and Roll Hall of Fame and the Country Music Hall of Fame
+QUESTION; TRUE;
+BOUGHT; All I Have to Do Is Dream
+TRUE; Bye Bye Love | Wake Up Little Susie
+//
+//
+//
+//
+// *************************************
+ARTIST; Fine Young Cannibals; **; BAND_BRIT; 2b8f39ab-f710-2ecc-7a8c-89b7ffc99301; 1.6; UK
+TRIVIA; This British band formed in 1984 had two Billboard Hot 100 number ones. Genre: Pop rock 
+QUESTION; TRUE;
+BOUGHT; She Drives Me Crazy
+TRUE; Good Thing | Johnny Come Home | Suspicious Minds
+//
+// QUESTION; DIALOG; The band's name was inspired by the 1960 film 'All the Fine Young Cannibals' starring Robert Wagner and his wife ??????? Wood
+// HINT; Give her first name
+// ANSWER; Natalie | Nataly | Natali
+// 
+ARTIST; Firefall; **; BAND; 7ff493c1-dc66-9ce4-5b5e-7986c772d97c; 1.5; US
+TRIVIA; This rock band formed in Colorado in 1974 had a hit single that reached # 9 on the Billboard charts.
+QUESTION; TRUE;
+BOUGHT; You Are the Woman
+TRUE; Just Remember I Love You | Strange Way
+//
+//
+//
+//
+//
+ARTIST; First Class; **; BAND_BRIT; 2d1d0436-dc40-6a49-3af8-8287688c3008; 1.7; UK 
+TRIVIA; A British pop music studio-based group who had its biggest hit, "Beach Baby," in 1974. The song was written by Carter, the band's founder. 
+QUESTION; TRUE;
+BOUGHT; Beach Baby    
+TRUE; The Beginning of My End | Hypnotized
+//
+//
+//
+//
+//
+ARTIST; Fleetwood Mac; **; BAND_BRIT; 0ef15e4b-57e6-3f09-25d2-5435f80f3a6f; 1.1; UK
+TRIVIA; Fleetwood Mac are a British-American rock band formed in 1967 in London.
+TRIVIA; The most successful period for this band was during the British blues boom of the 60s
+QUESTION; TRUE;
+BOUGHT; Don't Stop | Go Your Own Way | Little Lies
+TRUE; Dreams | Landslide | Gypsy
+// 
+// LYRICS; You can call it another lonely day
+// BONUS_A; Go Your Own Way | your own way | go your way
+//
+ARTIST; Foreigner; **; BAND_BRIT; aac6f447-4e39-ea91-2d72-87fbd7508d04; 1.28; UK 
+TRIVIA; This rock band, formed in New York City in 1976 by British and American musicians scored top hits on US and UK charts
+QUESTION; TRUE;
+BOUGHT; I Want to Know What Love Is
+TRUE; Waiting for a Girl Like You | Juke Box Hero
+//
+//
+//
+//
+//
+ARTIST;  Foundations; **; BAND_BRIT; 01a28ff3-8af6-ee50-e6e4-9a3f9f095378; 1.0; UK 
+TRIVIA; The Foundations were a British soul band, active from 1967 to 1970.
+QUESTION; TRUE;
+TRUE; Build Me Up Buttercup
+TRUE; Baby Now That I’ve Found You
+//
+//
+//
+// 
+//
+ARTIST; The Four Seasons; **; BAND; 22db9764-fb20-8964-c812-fd590bcd560c; 1.27; US
+TRIVIA; Frankie Valli is the lead singer for this American rock and pop band that was a huge success worldwide in the '60s
+TRIVIA; This group also known as Frankie Valli and the Four Seasons was inducted into the Rock and Roll Hall of Fame in 1990
+QUESTION; TRUE;
+BOUGHT; December, 1963 (Oh, What a Night)
+TRUE; Big Girls Don't Cry | Sherry
+// 
+// 
+// 
+//
+ARTIST; The Four Tops; **; BAND; 192e067e-c732-16d6-972a-7ee860906fb1; 1.12; US
+TRIVIA; A vocal quartet from Detroit, Michigan famous in the '60s in the genres of soul music, R&B, doo-wop,  and jazz
+QUESTION; TRUE;
+BOUGHT; It's the Same Old Song
+TRUE; Reach Out I'll Be There
+//
+// QUESTION; DIALOG; The Four Tops was one of the pioneers of the cross-over style of soul music and pop from Detroit known as the M????? Sound
+// HINT; Give missing word. 6 letters
+// ANSWER; Motown | mowtown | otown | motown sound
+//
+ARTIST;Frankie Avalon
+TRIVIA;
+QUESTION;
+BOUGHT;Venus 
+// FALSE;
+//
+//
+//
+//
+//
+ARTIST; Frankie Valli; **; MV; f695d207-2876-e5a9-7d5a-e1c56533b71d; 1.75; US
+TRIVIA; An American popular singer most famous as front man of The Four Seasons in the 60s 
+QUESTION; TRUE;
+BOUGHT; Grease | Can't Take My Eyes Off You 
+BOUGHT; December, 1963 (Oh, What a Night)
+TRUE; Sherry | My Eyes Adored You | Big Girls Don't Cry 
+// 
+// 
+//
+//
+ARTIST; Freddy Fender; **; MV; 33e9c570-0084-5b30-2b32-3a108024a179; 1.0; US
+TRIVIA; Cross-over Latino country and rock and roll musician from Texas, born in 1937. who changed his last name to the make of his string instruments.
+QUESTION; TRUE;
+BOUGHT; Before the Next Teardrop Falls
+TRUE; Wasted Days and Wasted Nights
+//
+//
+//
+//
+//
+ARTIST; Free; **; BAND_BRIT; 14094f76-4545-c465-69a7-456b4f1caa44; 1.0; UK
+TRIVIA; Free was an English blues and rock band best known for their 1970 iconic song "All Right Now" which earned them an invitation to one of the biggest song festivals of all times
+QUESTION; OTHER; Free played to 600,000 people at which epic festival?   
+TRUE; Isle of Wight
+FALSE; Leeds | Woodstock | Glastonbury 
+// BOUGHT; All Right Now
+//
+//
+//
+// **********************************
+ARTIST; Gary Puckett & The Union Gap; **; BAND; 47cc4ebf-17d7-2062-3b18-547d2ecdefc6; 1.0; US
+TRIVIA; Gary Puckett & The Union Gap (initially credited as The Union Gap featuring Gary Puckett) was an American pop rock group active in the late 1960s.
+QUESTION; TRUE;
+TRUE; Lady Willpower | Young Girl
+TRUE; Woman, Woman | Over You | This Girl is a Woman Now
+// 
+// 
+// 
+// 
+//
+ARTIST; Gary Wright; **; MV; bdfdaa9c-3618-409f-2302-4b7435df5f21; 0.7; US 
+TRIVIA; This singer, songwriter and musician, born in New Jersey in 1943 had 2 major hit singles in 1976, and helped introduce the synthesizer as a leading instrument in rock music
+QUESTION; TRUE;
+BOUGHT; Dream Weaver
+TRUE; Love Is Alive
+//
+//
+//
+//
+//
+ARTIST;Giorgio Moroder
+BOUGHT;On the Radio
+//
+//
+//
+//
+//
+//
+//
+//
+ARTIST; George Harrison; **; MV_BRIT; bc9116eb-5c9a-0d95-6f0b-e7014886dc4f; 1.0; UK    
+TRIVIA; An English musician, singer and songwriter, born in 1943, best known as the lead guitarist of the Beatles
+QUESTION; TRUE; 
+BOUGHT; My Sweet Lord
+TRUE; Got My Mind Set On You | What is Life
+//
+//
+//
+//
+//
+ARTIST; George Jones; **; MV_CTRY
+TRIVIA; This Country music legend from Texas with a Baritone voice remained faithful to this genre throughout his illustrious career that began in the 60s and spanned half a century till his death at age 81
+QUESTION; TRUE;
+BOUGHT; White Lightning
+TRUE; He Stopped Loving Her Today | Who's Gonna Fill Their Shoes
+TRUE; Finally Friday
+//
+//
+//
+//
+ARTIST; Gilbert O'Sullivan; **; MV_BRIT; 28711cb0-9f9e-8060-c817-64328a6892aa; 1.2; IRL
+TRIVIA; This Irish singer-songwriter charted 16 top-40 hits, including six #1 songs in the early 70s
+QUESTION; TRUE;
+BOUGHT; Alone Again (Naturally)
+TRUE; Get Down | Clair
+//
+//
+//
+//
+//
+ARTIST; Gladys Knight & The Pips; **; FV; a6e3fc98-837e-2bb3-bdb0-550ba5c7969c; 0.9; US
+TRIVIA; This R&B/soul group received a Grammy award in 2009
+QUESTION; TRUE; Gladys Knight
+BOUGHT; Midnight Train to Georgia | I Heard It Through the Grapevine 
+//  
+// 
+// 
+// BONUS_Q; Gladys Knight was born in what state ? @ Georgia | giorgia
+//
+//
+ARTIST; Glen Campbell; **; MV; ebaf049f-f7e2-1c87-05fd-e7ed0bb290e8; 1.6; US
+TRIVIA; This rock and country music singer, songwriter, and actor, born in 1936 in Arkansas, had numerous hits in the 60s and 70s, and hosted a TV variety show
+QUESTION; TRUE;
+BOUGHT; Rhinestone Cowboy
+TRUE; Gentle on My Mind | By the Time I Get to Phoenix | Wichita Lineman
+TRUE; Galveston | Southern Nights
+//
+//
+//
+//
+ARTIST; Gloria Estefan; **; FV; ed481a6d-94e5-788e-9da9-094cf73a6caf; 0.8; US
+TRIVIA; This  Cuban- American singer, songwriter is the most successful crossover performer in Latin music to date
+TRIVIA; This Cuban-American singer and actress won 7 Grammy Awards
+QUESTION; TRUE;
+BOUGHT; Turn the Beat Around | Conga
+//
+// BONUS_Q; Estefan Started her career as the leading singer in the "Miami Sound ???????" @ Machine | mashine
+//
+//
+//
+ARTIST; Gloria Gaynor; **; FV; 61937388-baa2-6d8c-9377-269f199e4fda; 0.86; US  
+TRIVIA; A disco and R&B singer, born in New Jersey in 1949, best known for her disco era hit and Hot 100 number 1 
+QUESTION; TRUE;
+BOUGHT; I Will Survive
+TRUE; Never Can Say Goodbye 
+TRUE; Let Me Know (I Have a Right) | I Am What I Am
+//
+//
+//
+//
+ARTIST; The Go-Go's; **; F_BAND; 16a645c0-12c6-17f1-4eff-fcbfc4f6ecf4; 1.46; US
+TRIVIA; An all-female American rock band that rose to fame during the early 80s.
+QUESTION; TRUE;
+BOUGHT; We Got the Beat
+TRUE; Vacation | Our Lips Are Sealed 
+TRUE; Head Over Heels
+//
+// 
+// 
+//
+ARTIST; Gordon Lightfoot; **; MV; c7869cc1-5efe-34f7-bdf3-76e4966e63d7; 0.77; CAN
+TRIVIA; This Canadian singer and songwriter won worldwide acclaim in the '60s and '70s.
+QUESTION; TRUE; Lightfoot
+BOUGHT; The Wreck of the Edmund Fitzgerald | Sundown | If You Could Read My Mind
+TRUE; Carefree Highway
+// 
+// BONUS_Q; Named the music genre that best describes Lightfoot's music. 
+// BONUS_A; folk-country | folk | country  
+//
+//
+ARTIST; Grand Funk Railroad; **; BAND; 97fd8c93-674a-638e-4dce-7ce88c455fe4; 1.5; US
+TRIVIA; This blues rock band from Flint Michigan, very popular in the '70s, toured to packed arenas worldwide 
+QUESTION; TRUE; Grand Funk 
+BOUGHT; We're an American Band
+TRUE; Some Kind of Wonderful | Bad Time
+TRUE; I'm Your Captain / Closer to Home
+//
+//
+//
+//
+ARTIST; The Grass Roots; **; BAND; 7c6291bc-8c24-9af3-5a33-ed788abd201f; 1.47; US
+TRIVIA; This American rock band had two gold albums and charted 21 times between 1966 and 1975, including 3 Top 10 
+QUESTION; TRUE;
+BOUGHT; Midnight Confessions | Sooner or Later
+TRUE; Let's Live for Today
+// 
+// BONUS_Q; The Grass Roots appeared 16 times on Dick Clark’s American ?????????. Give Missing word.
+// BONUS_A; Bandstand | bandstand | band stand
+//
+//
+ARTIST; The Grateful Dead; **;     BAND; 97fc648c-ecd2-9538-62b0-d968e7ff845a; 1.25; US 
+TRIVIA; This rock band formed in 1965 in California, known as the pioneers of the jam band, and for their fanatical followers known as "Deadheads" was inducted into the Rock and Roll Hall of Fame in 1994
+QUESTION; TRUE;
+BOUGHT; Touch of Grey
+TRUE; Truckin' | Bertha
+//
+//
+//
+//
+//
+ARTIST; The Guess Who; **; BAND; 1a0b0033-4665-8198-c069-6f084147b97e; 1.1; CAN
+TRIVIA; This Canadian rock band achieved international fame in the '60s and '70s with numerous hit singles
+QUESTION; TRUE;
+BOUGHT; Clap for the Wolfman | American Woman
+TRUE; No Time
+TRUE; These Eyes | Share the Land
+// 
+// BONUS_Q; 'The Guess Who' is a band from what country ? @ Canada 
+//
+//
+ARTIST;
+// MUSIC WIKI HIJK - 06-03-2017 
+H,10,110,I,110,130,J,130,350,K,350,460
+//  
+//   
+// BAND    | BAND_BRIT | DUO_MF | DUO_M    
+// FV   | F_BAND    | FV_CTRY         F_BAND = female mixed
+// MV    | MV_BRIT   | MV_CTRY
+//
+//
+//
+ARTIST; Hank Williams; **; MV_CTRY; 527220a3-e908-7227-8ed7-3449e63b3039; 0.9; US
+TRIVIA; This singer, musician and songwriter, born in 1923 in Alabama, is one the most influential singers and songwriters of Country Western, and had 35 Top 10 hits in the Country & Western Best Sellers chart, of which 11 reached number 1
+QUESTION; TRUE;
+TRUE; Hey, Good Lookin' | I'm So Lonesome I Could Cry | Your Cheatin' Heart
+//
+//
+//
+//
+//
+//
+ARTIST; Hank Williams, Jr.; **; MV_CTRY; 4f906cfc-a752-fac4-c0b7-cd336ee75def; 1.3; US
+TRIVIA; This country singer-songwriter and musician, son of legendary country music singer Hank Williams, became a top country artist in the '80s. Genres: Country, outlaw country, southern rock
+QUESTION; TRUE;
+BOUGHT; All My Rowdy Friends Are Coming Over Tonight 
+BOUGHT; Family Tradition | On the Road Again
+// 
+// QUESTION; DIALOG; FOR two decades his song 'All My Rowdy Friends Are Coming Over Tonight' was used as the opening for TV's broadcast of 'Monday Night F???????'
+// HINT; Give missing word, 8 letters
+// ANSWER; Football | ootball | futball
+//
+ARTIST; Harry Belafonte; **; MV; 0e0918f0-f26e-7f5a-f201-7382f745b0fe; 0.8
+TRIVIA; The "King of Calypso" is a Caribbean American pop star of the 50s  
+QUESTION; TRUE;
+BOUGHT; Jump In the Line | Day-O (The Banana Boat Song) 
+BOUGHT; Jamaica Farewell | Will His Love Be Like His Rum? 
+// 
+//
+//
+//
+//
+ARTIST; Harry Chapin; **; MV; b17c431a-f807-1075-6fc4-288fde5b6edc; 1.6; US 
+TRIVIA; This singer-songwriter and humanitarian from New York, well known for his folk rock songs, died at the age of 38 in a car accident
+QUESTION; TRUE;
+BOUGHT; Cat's In the Cradle
+TRUE; Taxi | W*O*L*D | Circle
+// 
+//
+//
+//
+//
+ARTIST; Harry Nilsson; **; MV; 4c4e0b58-9f8b-c958-3f08-50abed17f25a; 1.5; US 
+TRIVIA; This singer (tenor), musician and songwriter from New York (1941 – 1994), gained fame as a pop-rock recording artist in the 70s without performing major concerts or going on tours.  
+QUESTION; TRUE;
+BOUGHT; Without You
+TRUE; Coconut
+//
+//
+//
+//
+//
+ARTIST; Heart; **; F_BAND; 8816f6b2-5e12-55cf-6c53-9b3db74f265e; 1.0; US  
+TRIVIA; Heart is an American rock band that first found success in Canada and later in the United States and worldwide. 
+QUESTION; TRUE;
+TRUE; Barracuda | Magic Man | Crazy On You | What About Love?
+//
+//
+//
+//
+//
+//
+ARTIST; Helen Reddy; **; FV; 0af1a658-5cbc-ee6d-2b8d-011e24185a00; 1.0; AUS
+TRIVIA; This Australian singer and actress, known as the "Queen of '70s Pop", had numerous singles in the Top 40 of the US Billboard charts, including 3 number 1s, and a one-hour weekly show on American television. 
+QUESTION; TRUE;
+BOUGHT; I Am Woman
+TRUE; Angie Baby | Ain't No Way to Treat a Lady | Candle On the Water 
+//
+//
+//
+//
+//
+ARTIST; Herb Alpert; **; MV; f6503d52-7540-5283-3b26-55adabb5750a; 1.0; US     
+TRIVIA; This musician from California linked with the group Herb Alpert & the Tijuana Brass
+earned 9 Grammy Awards, numerous platinum and gold albums and is the only recording artist to reach No. 1 on the U.S. Billboard Hot 100 charts as both singer and instrumentalist 
+QUESTION; TRUE; 
+BOUGHT; This Guy's in Love with You
+TRUE; Spanish Harlem | Route 101
+//
+//
+//
+//
+ARTIST; Herman's Hermits; **; BAND_BRIT; 9ad9403f-7b6f-4a43-5ee2-2462342159b3; 2.0; UK 
+TRIVIA; Herman's Hermits are an English beat rock band, formed in Manchester in 1964.
+QUESTION; TRUE;
+TRUE; No Milk Today | I'm Into Something Good | A Kind of Hush | Can't You Hear my Heartbeat
+TRUE: Silhouettes |  Listen People | Mrs Brown You've Got a Lovely Daughter
+//
+//
+//
+//
+// 
+ARTIST; The Hollies; **; BAND_BRIT; fbfd32ce-c9ff-7565-a7ce-26115ce69d10; 1.5; UK 
+TRIVIA; This leading British groups of the 60s, that achieved worldwide fame, are still active today after a 5 decade career. The band was inducted to the Rock and Roll Hall of Fame in 2010
+QUESTION; TRUE;
+BOUGHT; The Air That I Breathe
+TRUE; Long Cool Woman in a Black Dress | He Ain't Heavy, He's My Brother
+TRUE; Bus Stop | Carrie Anne
+//
+//
+//
+//
+ARTIST; The Hues Corporation; **; BAND
+TRIVIA; A pop and soul trio formed in California best known for their 1974 hit 'Rock the Boat'
+QUESTION; TRUE; 
+TRUE; Rockin' Soul | What the World Knows
+// The band's famous song 'Rock the Boat' is considered to be the first #1 hit of what music genre ? 
+// FALSE; Heavy Metal
+// BOUGHT; Rock the Boat 
+//
+//
+//****************************************
+ARTIST; Irene Cara; **; FV; c9dcf493-248f-b78d-b633-42eab275dec0; 0.7; US 
+TRIVIA; This American singer, songwriter and actress earned a Golden Globe nomination for her role in an internationally acclaimed 1980 film.
+QUESTION; TRUE;
+BOUGHT; Flashdance...What a Feeling
+BOUGHT; Fame
+//
+//
+//
+//
+//
+ARTIST;Italian Mandoline Orchestra
+BOUGHT;La Spagnola 
+//
+//
+//
+//
+//
+//
+//
+//*****************************************
+ARTIST; Jack Johnson; **; MV; e60013f3-b867-3128-f0d3-966d75be5883; 0.67; US
+TRIVIA; Singer-songwrite-instrumentalist, born in Hawaii, active 1975 to present, reached #1 on the Billboard 200 with two soft rock and accoustics albums. 
+QUESTION; TRUE;
+BOUGHT; Taylor
+TRUE; Better Together | Banana Pancakes 
+TRUE; Sitting, Waiting, Wishing
+//
+//
+//
+//
+ARTIST; James Brown; **; MV; c1dfc1e3-38ab-8346-e2e3-aeb270f22730; 1.4; US
+TRIVIA; This singer, songwriter and bandleader from South Carolina (1933 - 2006), known as the founding father of funk music, had 16 no. 1 singles on the R&B charts
+QUESTION; TRUE;
+TRUE; Living In America | It's a Man's Man's Man's World
+TRUE; I Got You (I Feel Good) | The Payback
+//
+//
+//
+//
+//
+ARTIST; James Taylor; **; MV; 7b6b9597-ef75-5dd4-f3dd-6b94f53c4d8b; 1.0; US
+TRIVIA; This American singer-songwriter and guitarist, born in 1948, won 5 Grammy Awards and was inducted into the Rock & Roll Hall of Fame
+QUESTION; TRUE;
+BOUGHT; Fire and Rain | You've Got a Friend 
+BOUGHT; How Sweet It Is (To Be Loved By You)
+TRUE; Carolina In My Mind
+// 
+//
+//
+//
+ARTIST; Janis Joplin; **; FV; 7d248149-a333-3430-fef4-d22834a8187b; 1.3; US
+TRIVIA; "The Queen of Psychedelic Soul", one of the major attractions at the Woodstock festival, was inducted into the Rock and Roll Hall of Fame in 1995
+QUESTION; TRUE;
+BOUGHT; Me and Bobby McGee
+TRUE; Mercedes Benz | Cry Baby
+// QUESTION; DIALOG; Joplin's number 1 hit "Me and Bobby McGee" is a song written by what composer ? 
+// TRUE; Kris Kristofferson
+// FALSE; Lloyd Weber | John Lennon | Bob Dylan
+// 
+// 
+ARTIST; Jay & The Americans; **; BAND; f3dd04c2-caa3-94a1-5154-e7c9c3ef9cf2; 1.0; US
+TRIVIA; This pop music group popular in the '60s was inducted into the Vocal Group Hall of Fame in 2002
+QUESTION; TRUE;
+BOUGHT; Come a Little Bit Closer
+BOUGHT; This Magic Moment | Cara Mia
+//  
+//
+//
+//
+//
+ARTIST; Jeannie C. Riley; **; FV_CTRY; 31b860bf-0a48-e3f4-b987-4cd905a278af; 1.72; US 
+TRIVIA; This country music and gospel singer born in Texas in 1945 is best known for her 1968 country and pop hit ‘Harper Valley PTA’. She recorded gospel music during the late 70s.
+QUESTION; TRUE;
+BOUGHT; Harper Valley PTA
+TRUE; The Girl Most Likely | There Never Was A Time 
+//
+//
+//
+//
+//
+ARTIST; Jeff Lynne; **; MV_BRIT; a2dd52d9-6c17-ae93-6b92-b446e8af8dd6; 0.7; UK
+TRIVIA; An English songwriter, singer, musician who gained fame as the leader of Electric Light Orchestra. He was later a co-founder of the super group Traveling Wilburys
+QUESTION; OTHER; Who was NOT a member of the super group Traveling Wilburys ? 
+// BOUGHT; Mercy,  Mercy
+TRUE; John Lennon
+FALSE; George Harrison 
+FALSE; Bob Dylan, 
+FALSE; Tom Petty
+//
+//
+ARTIST; Jefferson Starship,**,BAND; US
+TRIVIA; An American psychedelic rock band spun from the rock group Jefferson Airplane in the 70s, that had several pop hits in the early 80s. The band Starship is a spin off of this group.
+QUESTION; TRUE;
+TRUE; Find Your Way Back
+TRUE; Miracles | Jane | Count On Me
+//
+//
+//
+//
+//
+ARTIST; Jim Croce; **; MV; a43a45e3-3f44-c8fb-211f-08e9087ef4ae; 1.0; US
+TRIVIA; This American folk rock singer wrote the song "Bad, Bad Leroy Brown" which rose to a number 1 pop hit for 2 weeks. Croce was nominated for two 1973 Grammy awards for his song. 
+QUESTION; TRUE;
+BOUGHT; Bad, Bad Leroy Brown | I'll Have to Say I Love You In a Song        
+TRUE; Time In a Bottle | I Got a Name
+// 
+// 
+// 
+//
+//
+ARTIST; Jimmy Buffett; **; MV; fbee5c23-6b96-a1f5-6ca9-8e6166bb36c1; 1.33; US
+TRIVIA; An American singer–songwriter, actor born in 1946 whose band is known as the Coral Reefer Band
+TRIVIA; Buffet's humorous lyrics depicted an "island escapism" lifestyle
+TRIVIA; Buffet's Coral Reefer Band has a devoted base of fans known as "Parrotheads"
+QUESTION; TRUE;
+BOUGHT; Margaritaville | Come Monday
+TRUE; Cheeseburger in Paradise
+//
+//
+//
+ARTIST; Joan Jett; **; F_BAND; b923ee81-88e8-04cc-a094-e3fff344e4c6; 0.7; UK
+TRIVIA; Joan is an American rock guitarist, singer, songwriter born in 1958
+QUESTION; TRUE; Joan Jett
+BOUGHT; I Love Rock 'N Roll
+TRUE; I Hate Myself for Loving You 
+TRUE; Crimson and Clover | Do You Wanna Touch Me (Oh Yeah)
+// 
+//
+//
+//
+ARTIST; Joan Jett & The Blackhearts; **; F_BAND; b923ee81-88e8-04cc-a094-e3fff344e4c6; 0.7; US
+TRIVIA; Joan is an American rock guitarist, singer, songwriter born in 1958
+QUESTION; TRUE; Joan Jett
+BOUGHT; I Love Rock 'N Roll
+TRUE; I Hate Myself for Loving You 
+TRUE; Crimson and Clover | Do You Wanna Touch Me (Oh Yeah)
+// 
+//
+//
+//
+ARTIST; Joe Cocker; **; MV; 7615b954-493d-78d0-9997-bbbd377f4132; 1.33; UK
+TRIVIA; Was an English singer and musician (1944 - 2014) famous for his covers of popular songs like the the Beatles' "With a Little Help from My Friends" that reached no 1. 
+QUESTION; TRUE
+BOUGHT; You Are So Beautiful
+TRUE; Up Where We Belong
+// 
+// 
+//
+//
+//
+ARTIST; John Denver; **; MV; 2e07737a-a7df-0b64-fe4d-465743f5d976; 1.2; US
+TRIVIA; This singer-songwriter, actor was America's best-selling performer in 1974
+QUESTION; TRUE;
+BOUGHT; Leaving On a Jet Plane | Calypso
+BOUGHT; Take Me Home Country Roads | Rocky Mountain High
+BOUGHT; Sunshine On My Shoulders | Thank God I'm a Country Boy
+//
+//
+//
+//
+ARTIST; John Lennon; **; MV_BRIT; 5c09ed48-6fcd-66b4-8a63-1dc53a13383c; 1.4; UK
+TRIVIA; This English musician, singer and songwriter is a founding member of 'The Beatles', the most successful rock band of all times
+QUESTION; TRUE;
+BOUGHT;Imagine | Stand By Me
+TRUE; Woman
+// FALSE; Sunshine On My Shoulders @ John Denver
+//
+//
+//
+//
+ARTIST; John Travolta & Olivia Newton-John; **; DUO_MF; bbaaca0d-7a05-3137-4664-d70594604849; 0.8
+TRIVIA; Travolta and Newton-John starred together in a block buster musical romantic comedy movie
+QUESTION; OTHER; Name that film whose soundtrack album was the second best selling for 1978
+TRUE; Grease
+FALSE; Saturday Night Fever | Dirty Dancing | Staying Alive
+//
+// BOUGHT; You're the One That I Want
+// TRUE; Summer Nights | We Go Together
+//
+//
+ARTIST; Johnny Cash; **; MV_CTRY; 05316379-74e5-0547-b2b4-bca5f4f3b3f5; 0.8; US
+TRIVIA; This singer-songwriter, actor is considered one of the most influential American musicians of  the20th century
+TRIVIA;"The Man in Black" won multiple induction in the Country Music, Rock and Roll, and Gospel Music Halls of Fame.
+TRIVIA; Johnny began his concerts with "Hello, I'm Johnny Cash.", followed by his signature "Folsom Prison Blues"
+QUESTION; TRUE;
+BOUGHT; I Walk the Line | Ring of Fire
+BOUGHT; (Ghost) Riders In the Sky | A Boy Named Sue
+//
+//
+//
+ARTIST; Johnny Horton; **; MV_CTRY; d4e25180-911d-745e-e106-c03fd1b6a667; 1.2; US
+TRIVIA; This American country music and rockabilly singer charted several singles that won Grammy awards for Country and Western music. He is a member of the Rockabilly Hall of Fame
+QUESTION; TRUE;
+BOUGHT; The Battle of New Orleans
+TRUE; North To Alaska | Sink the Bismarck | Johnny Reb | Honky-Tonk Man
+// FALSE; Family Tradition @ Hank Williams, Jr.
+//
+//
+//
+//
+ARTIST; Johnny Lee; **; MV_CTRY; 3b30c4da-fd13-4b18-27f6-9610dfbc8513; 0.8; US
+TRIVIA= This country music singer from Texas had a series of country hits in the 80s 
+QUESTION; TRUE;
+BOUGHT;  Yellow Rose of Texas | Lookin' for Love
+TRUE; Bet Your Heart On Me
+// 
+//
+//
+//
+//
+ARTIST; Johnny Rivers; **; MV
+TRIVIA; This American old-time rock 'n' roll singer, songwriter, guitarist, with numerous hits in the '60s, has a career total of 9 Top 10 hits on the Billboard Hot 100
+QUESTION; TRUE;
+BOUGHT; Swayin' to the Music (Slow Dancin') 
+TRUE; Secret Agent Man | Poor Side of Town | Summer Rain
+// FALSE; Diggin' Up Bones @ Randy Travis    
+//
+//
+//
+//
+ARTIST; The Judds; **; FV_CTRY; a9f9be1b-ba89-d235-01af-07d212ca65d8; 1.2; US
+TRIVIA; This Mother-Daughter country music duo became one of the most successful acts in country music and won five Grammy Awards for Best Country Performance by a Duo  
+QUESTION; TRUE;
+BOUGHT; Grandpa (Tell Me 'Bout the Good Old Days)
+TRUE; Why Not Me | Mama He's Crazy
+// QUESTION; DIALOG; First name of Naomi Judd's daughter ? 
+// HINT; One word that starts with 'W'
+// ANSWER; Wynonna | winona | wynnona | wynona
+//
+//
+ARTIST; Judy Collins;**; FV; 86c7c2dc-26a9-94a6-b7a6-11a3a516e01c; 1.0; US    
+TRIVIA; This singer and songwriter, born in Washington State in 1939, who recorded a variety of popular folk and pop tunes, won several Grammy Awards for Best Folk Performance
+QUESTION; TRUE;
+BOUGHT; Both Sides Now
+TRUE; Send In the Clowns | Someday Soon
+//
+//
+//
+//
+//
+ARTIST; Juice Newton; **; FV; 6495896c-a1ca-072e-0071-8a8ee09d7a25; 1.3; US
+TRIVIA; This singer, songwriter and guitarist from New Jersey, born in 1952, had multiple Gold and Platinum records and received a Grammy Award in the Pop and Country genre
+QUESTION; TRUE;
+BOUGHT; The Sweetest Thing | Angel of the Morning | Queen of Hearts
+// 
+//
+//
+//
+//
+ARTIST; Kansas; **; BAND; e3bfd4c6-7c50-c543-8925-d0d74df93b6d; 2.0; US
+TRIVIA; Kansas is an American rock band that became popular in the 1970s.
+QUESTION; TRUE;
+TRUE; Carry On Wayward Son | Dust In The Wind
+TRUE; Point Of Know Return
+// 
+// 
+// 
+// 
+//
+//***********************
+ARTIST; Katy Perry; **; FV; 06fc7953-b30a-f511-25d2-7f05bf966120; 0.7; US
+TRIVIA; A singer and actress from California made famous by the single 'I Kissed a Girl' which reached # 1 on the Billboard Hot 100 chart for seven consecutive weeks
+QUESTION; TRUE;
+BOUGHT; I Kissed a Girl
+TRUE; Roar | Hot n Cold
+//
+//
+//
+//
+//
+ARTIST; KC and the Sunshine Band; **; BAND; 743a4014-2e89-f183-6289-7585eae3adc0; 1.0; US
+TRIVIA; This American band's style has included funk, R&B, and disco
+QUESTION; TRUE;
+BOUGHT; That's the Way (I Like It) | Get Down Tonight
+BOUGHT; (Shake, Shake, Shake) Shake Your Booty | Give it up
+// 
+// 
+// 
+//
+//
+ARTIST; Kenny Loggins; **; MV; 773c74ac-c5c2-ee39-2377-12aa36f56850; 0.8; US
+TRIVIA; This American singer-songwriter and guitarist born in 1948 is famous for soft rock in the 70s
+TRIVIA; Loggins is the voice of the disc jockey in Grand Theft Auto V's "Los Santos Rock Radio"
+QUESTION; TRUE;
+BOUGHT; Footloose | Danger Zone
+TRUE; This Is It
+// TRUE; Danny's Song Loggins & Messina
+// *
+//
+//
+ARTIST; Kenny Rogers; **; MV_CTRY; 7f9974c3-9aae-5b7d-410c-3a0fa3618f18; 1.0; US
+TRIVIA; This American singer-songwriter, actor, whose career spanned seven decades, charted hundreds of hit singles of country and pop making him one of the highest-selling artists of all time
+QUESTION; TRUE;
+BOUGHT; The Gambler
+TRUE; Lady | Lucille | She Believes In Me | Love Will Turn You Around
+TRUE; Coward of the County
+// FALSE; A Boy Named Sue @ Johnny Cash
+//
+//
+//
+ARTIST; Kenny Rogers & Dottie West; **; DUO_MF; 1ac9dfc8-cf98-2567-8828-ed34db04dc14; 1.0; US
+TRIVIA; Dottie West was an American singer and songwriter, and one of country's groundbreaking female performers who charted Top 10 hits throughout the '60s 
+QUESTION; TRUE; Rogers & West
+BOUGHT; Every Time Two Fools Collide
+TRUE; All I Ever Need Is You | What Are We Doin' In Love
+// FALSE; Family Tradition    @ Hank Williams, Jr.
+// FALSE; Louisiana Woman, Mississippi Man    @ Conway Twitty & Loretta Lynn
+// FALSE; Islands In the Stream @ Dolly Parton & Kenny Rogers
+//
+//
+ARTIST; Kim Carnes; **; FV; 617c7eeb-abc6-3916-5dea-4960eac6e8c2; 1.0; US
+TRIVIA; This songwriter and vocalist with a famed raspy voice, from California, won two Grammy Awards and Song of the Year for her Her most successful single "Bette Davis Eyes"
+QUESTION; TRUE;
+BOUGHT; Bette Davis Eyes        
+TRUE; More Love | Crazy in the Night (Barking at Airplanes)
+// 
+//
+//
+//
+//
+ARTIST; The Kingston Trio; **; BAND; e55aa9a8-e2f1-8b16-1f07-8ced9ba453af; 1.0; US
+TRIVIA; This American pop music group launched the pop-folk boom of the '60s with the release of their first album in 1958
+QUESTION; TRUE;
+BOUGHT; Tom Dooley | Where Have All The Flowers Gone
+BOUGHT; Tijuana Jail | M.T.A
+// 
+//
+//
+//
+//
+ARTIST; The Kinks; **; BAND_BRIT; 284f7807-ee54-507f-f0cb-cb6ff52a0599; 1.16; UK
+TRIVIA; This English rock band, active in the mid '60s and early '70s, were part of the British Invasion of the US
+TRIVIA; This English rock band had five Top 10 singles on the US Billboard chart and had four members inducted into the Rock & Roll Hall of Fame
+QUESTION; TRUE;
+BOUGHT; All Day and All of the Night | Lola
+TRUE; Sunny Afternoon | You Really Got Me
+// FALSE; Let It Be @ The Beatles    
+//
+//
+//
+ARTIST; Kiss; **; BAND; 5dfe0548-53e8-11cc-4f8c-a014e4adf1b6; 1.0; US
+TRIVIA; This hard rock band formed in New York in 1973 is Well known for its members' face paint and comical stage costumes. The band staged outlandish live performances in the late 70s 
+QUESTION; TRUE;
+BOUGHT; I Was Made for Lovin' You
+TRUE; Rock and Roll All Night | Detroit Rock City
+//
+//
+//
+//
+//
+ARTIST; Kool & The Gang; **; BAND; f9e89cc9-6333-8cc2-2e3d-52170653c4c1; 1.13; US
+TRIVIA; An American jazz, R&B, soul, and disco group, originally formed in 1964
+TRIVIA; Kool & the Gang toured with Van Halen in 2012
+QUESTION; TRUE;
+BOUGHT; Get Down on It | Celebration
+TRUE; Ladies Night
+//
+//
+//
+//
+ARTIST; Kylie Minogue; **; FV; 1e983369-acd0-c47d-8d02-aa7e2bd988cb; 0.75; AUS
+TRIVIA; An Australian singer-songwriter and actress working in London
+TRIVIA; Kylie began her career as a child actress on Australian television
+TRIVIA; Kylie received multiple ARIA and Brit Awards and a Grammy Award
+QUESTION; TRUE;
+BOUGHT; The Loco-Motion
+TRUE; Into The Blue | Can't Get You Out Of My Head
+TRUE; Million Miles
+//
+//
+ARTIST;
+// MUSIC WIKI LMN - 4-1-2017
+L,10,180,M,180,320,N,320,430
+//   
+// 
+// BAND    | BAND_BRIT | DUO_MF | DUO_M    
+// FV   | F_BAND    | FV_CTRY         F_BAND = female mixed
+// MV    | MV_BRIT   | MV_CTRY
+// METAL
+//
+//
+ARTIST;La Touche
+BOUGHT;Breaux Bridge Hop 
+//
+//
+//
+//
+//
+//
+//
+//
+ARTIST;La Touche & Traditional
+BOUGHT;Mardi Gras 
+//
+//
+//
+//
+//
+//
+//
+//
+ARTIST;The Latin Music All-Stars
+BOUGHT;Guantanamera 
+//
+//
+//
+//
+//
+//
+//
+//
+ARTIST; Laura Branigan; **; FV; 40873d0e-0d31-1ccd-ee32-dd81b120c808; 1.16; US
+TRIVIA; This American singer and actress, known for her booming alto singing voice, had a platinum hit song and four Top 5 singles. She died in 2004, at the age of 47
+QUESTION; TRUE;
+BOUGHT; Gloria | Self Control
+TRUE; Solitaire | How Am I Supposed to Live Without You
+//
+//
+//
+//
+//
+ARTIST; Led Zeppelin; **; BAND_BRIT; 9ab2d91b-df8a-c208-c7c2-0eb93d5f5aee; 1.33; UK
+TRIVIA; This English rock band is, according to Rolling Stone magazine, "the biggest band of the '70s". Genres: Hard rock, blues rock, heavy metal
+TRIVIA; This English rock band of the '70s was inducted into the Rock and Roll Hall of Fame. Genres: Hard rock, blues rock, heavy metal  
+QUESTION; TRUE;
+BOUGHT; Black Dog | Stairway to Heaven
+TRUE; Kashmir | Immigrant Song
+// 
+//
+//
+//
+ARTIST; Leo Sayer; **; MV_BRIT; 441bbf76-23b7-fc5a-8ca2-f2215a81d50d; 1.5; UK    
+TRIVIA; This British singer-songwriter and musician had top singles in the UK and US in the 70s and throughout his four decade long career. 
+QUESTION; TRUE;
+BOUGHT; You Make Me Feel Like Dancing    
+TRUE; More Than I Can Say | When I Need You
+TRUE; Long Tall Glasses
+//
+//
+//
+//
+ARTIST; Lesley Gore; **; FV; 62598d20-dde8-a3d6-877a-fdaa3b6531e6; 1.33; US 
+TRIVIA; This singer, songwriter and actress from New York (1946 to 2015) started recording pop hit songs at the age of 16. She composed songs for the movie 'Fame'. 
+QUESTION; TRUE;
+TRUE; You Dont Own Me | It's My Party
+TRUE; Judy's Turn to Cry | California Nights
+//
+//
+//
+//
+//
+ARTIST; The Light Crust Doughboys; **; BAND
+TRIVIA; This iconic Western swing band founded in 1931 in Texas achieved success in the late 30s and was inducted into the Texas Western Swing Hall of Fame in 1989 
+QUESTION; TRUE; The Light Crust Doughboys
+BOUGHT; Pussy Pussy Pussy
+TRUE; Texas Women | Deep Ellum Blues
+TRUE; Hot Pretzels
+// 
+// ARTIST; The Light Crust Doughboys & The Smu Mustang Band; **; BAND
+//
+//
+ARTIST; Linda Ronstadt; **; FV; 6f5a67e3-0ee9-9513-c349-1b437bd435c5; 1.0; US
+TRIVIA;This American popular music singer earned 11 Grammy Awards and 2 Academy of Country Music awards
+TRIVIA; Ronstadt was inducted into the Rock and Roll Hall of Fame in 2014
+QUESTION; TRUE;
+BOUGHT; When Will I Be Loved | Blue Bayou
+TRUE; You're No Good
+// 
+//
+//
+//
+ARTIST; Lionel Richie; **; MV
+TRIVIA; This singer, songwriter, musician, born in Alabama in 1949, made his solo debut in 1982 with a number 1 hit and became one of the world's best-selling artists of all time 
+QUESTION; TRUE;
+BOUGHT; Stuck On You
+TRUE; All Night Long (All Night) | Hello | Truly
+//
+//
+//
+//
+//
+ARTIST; Little Richard; **; MV; cfdeb2bf-57be-8817-f3c8-f996257bfb6f; 1.2; US 
+TRIVIA; A musician, singer and songwriter, born in Georgia U.S. in 1932, whose career lasted more than 60 years. One of the pioneers of rock and roll and rhythm & blues, he was inducted into the Rock and Roll Hall of Fame in 1986. 
+QUESTION; TRUE;
+BOUGHT; Good Golly Miss Molly
+TRUE; Tutti Frutti | Long Tall Sally
+//
+//
+//
+//
+//
+ARTIST; Lobo; **; MV; 83a9a48e-b90f-558d-24c5-7c73275d72d1; 1.4; US
+TRIVIA; This singer-songwriter, born in Florida of 6 siblings, was successful in the early '70s and scored several U.S. Top 10 hits. Genre Pop and Country
+QUESTION; TRUE;
+BOUGHT; Me and You and a Dog Named Boo | I'd Love You to Want Me
+TRUE; Don't Expect Me to Be Your Friend | How can I tell her
+// 
+// 
+//
+//
+//
+ARTIST; Looking Glass; **; BAND; 1bc157b9-a14a-746f-f05c-e50bc59590f6; 1.5; US
+TRIVIA; A pop rock music group of the early 70s from New Jersey. The group had a #1 hit single in 1972 which sold over a million records.
+QUESTION; TRUE;
+BOUGHT; Brandy
+TRUE; Jimmy Loves Mary-Anne
+//
+//
+//
+//
+//
+ARTIST; Loretta Lynn; **; FV_CTRY; 64fb06ec-57cd-4cfd-ebd8-e704655b50ec; 1.2; US    
+TRIVIA; This singer-songwriter recorded multiple gold albums in her 50 year country music career. Loretta was raised in a mining community in Kentucky, the second of eight children 
+QUESTION; TRUE;
+BOUGHT; Coal Miner's Daughter
+TRUE; You Ain't Woman Enough (To Take My Man)
+// QUESTION; DIALOG; Three of Loretta's siblings are country music singers, including her youngest sister: Crystal ?????
+// HINT; Type her sister's last name. One word.
+// ANSWER; Crystal Gayle | gayle | gaile | gail 
+// 
+//
+ARTIST;Los Lobos
+BOUGHT;La Bamba 
+//
+//
+//
+//
+//
+//
+//
+//
+ARTIST; Louis Armstrong; **; MV; 68ebbb4a-5a91-9468-e316-b13dbc79cf8e; 1.27; US 
+TRIVIA; This Jazz singer and trumpeter from New Orleans was active from the 20s till 1971. With his unique raspy voice, "Satchmo" is one of the greatest names in jazz music, and it's most recognizable solo performer.
+QUESTION; TRUE;
+BOUGHT; What a Wonderful World
+TRUE; Hello Dolly | A Kiss to Build a Dream On
+// *
+//
+//
+//
+//
+ARTIST; Lovin' Spoonfull; **; BAND; 5717a9de-ed87-54f9-9ac9-9116df803143; 1.33; US
+TRIVIA; The Lovin' Spoonful is an American rock band, inducted into the Rock and Roll Hall of Fame in 2000.
+QUESTION; TRUE;
+TRUE; Summer in the City
+TRUE; Do You Believe In Magic
+TRUE; Did You Ever Have To Make Up Your Mind?
+// 
+// 
+// 
+//
+ARTIST; Lynyrd Skynyrd; **; BAND; 38ed216c-e643-a0a0-dbe2-992bb237dc59; 1.5; US 
+TRIVIA; This American band, that pioneered the southern hard-rock genre in the '70s
+with its hugely popular live performances, was inducted into the Rock and Roll Hall of Fame in 2006  
+QUESTION; TRUE;
+BOUGHT; Sweet Home Alabama 
+TRUE; Free Bird | Simple Man | Gimme Three Steps
+// 
+//
+//
+// *********************************
+ARTIST; Madonna; **; FV; 6c350d12-ebe1-692c-57f1-c30ee297a993; 0.8; US
+TRIVIA; Madonna's controversial music videos became a fixture on MTV. 
+TRIVIA; Madonna  garnered a Golden Globe Award for Best Actress in Motion Picture Musical for Evita (1996)
+TRIVIA; Madonna sparked controversy for kissing Britney Spears and Christina Aguilera suggestively during the 2003 MTV Video Music Awards
+QUESTION; TRUE;
+BOUGHT; Don't Cry for Me Argentina | La Isla Bonita
+BOUGHT; Material Girl | Express Yourself
+//
+//
+//
+ARTIST; The Mamas & the Papas; **; F_BAND; 13ae36fc-acf1-cf87-e060-90a0e18b7e89; 1.16; US  
+TRIVIA; This folk rock vocal group from California, active in the late sixties, had six single hits in the top ten. Their music arranged by the leader and songwriter of the group derives from folk music
+QUESTION; TRUE;
+BOUGHT; California Dreamin'
+TRUE; Monday, Monday | Dedicated to the One I Love
+TRUE; Dream a Little Dream of Me
+//
+//
+//
+//
+ARTIST; Marillion; **; METAL; ae680329-8fbe-6b7a-ee4b-2170156eed42; 0.99; UK 
+TRIVIA; This British rock band, formed in in 1979, one of the greatest neo-progressive rock band of the 80s, with extremely devoted fans known as 'The Freaks', have sold more than 15 million albums
+QUESTION; TRUE;
+TRUE; Kayleigh | Lavender
+TRUE; You're Gone
+//
+//
+//
+//
+//
+ARTIST; Marty Robbins; **; MV_CTRY; f12078fb-34ff-cd52-043a-64c2f966106b; 1.12; US     
+TRIVIA; This singer, songwriter, and musician, born in Arizona in 1925, became a NASCAR driver, and one of the most popular country music singers for four decades.   
+QUESTION; TRUE;
+BOUGHT; El Paso
+TRUE; A White Sport Coat | Big Iron | Don't Worry
+//
+//
+//
+//
+//
+ARTIST; The Marvelettes; **; F_BAND; ; 1.46; US 
+TRIVIA; This American R&B, rock and doo-wop girl group, popular in the '60s, became Motown's first successful girl group with the release of two #1 gold singles
+QUESTION; TRUE;
+BOUGHT; Please Mr. Postman
+TRUE; Don't Mess with Bill
+//
+//
+//
+//
+//
+ARTIST; Mary Hopkin; **; FV; 4b680104-e1e5-78b5-2114-0364b6c4f1cb; 1.77; UK
+TRIVIA; This Welsh folk singer is best known for her 1968 UK number one single "Those Were The Days". 
+QUESTION; TRUE;
+BOUGHT; Those Were The Days
+TRUE; Goodbye
+//
+//
+//
+//
+//
+ARTIST; Maxine Nightingale; **;  FV; effd6f63-1550-fdbf-65d5-a473947aa9de; 1.03 ; UK
+TRIVIA; R&B and soul music singer born in London in 1952 best known for 3 big 70s hit singles.  
+QUESTION; TRUE;
+BOUGHT; Right Back Where We Started From
+TRUE; Lead Me On
+//
+//
+//
+//
+//
+ARTIST;The McCoys
+BOUGHT;Hang On Sloopy
+TRIVIA;
+QUESTION= Which line is NOT true?
+/* CHOICE= 1) "Hang On Sloopy" was #1 in the US in the Billboard Hot 100 chart in 1965 
+CHOICE= 1) This song is the official rock song of the state of Ohio
+CHOICE= 1) "Fever" is another hit song by The McCoys 
+//
+//
+//
+ARTIST; Mel McDaniel; **; MV_CTRY; 223ccbf4-56d9-a7bc-5794-23533cb29e35; 1.0; US
+TRIVIA; This country music artist from Oklahoma (1942 – 2011), who had numerous hits in the 80s, was known for his “happy” country songs. 
+QUESTION; TRUE;
+BOUGHT; Louisiana Saturday Night | Baby's Got Her Blue Jeans On
+TRUE; Big Ole Brew 
+//
+//
+//
+//
+//
+ARTIST; Men at Work; **; BAND; a5137e91-c36d-5489-129f-21d6badda134; 1.48; AUS
+TRIVIA; This band which reached international fame in the 1980s were the first Australian artists to have a No. 1 hit in both Australia and the US
+QUESTION; TRUE;
+BOUGHT; Down Under
+TRUE; Who Can It Be Now? | Overkill
+//
+//
+//
+//
+//
+ARTIST; Metallica; **; METAL; 8b644dc1-c6ab-80a6-9fbe-78edfd5ce0ce; 1.02; US  
+TRIVIA; This a heavy metal band formed in California in 1981, one of the founding "big four" bands of thrash metal, was inducted into the Rock and Roll Hall of Fame.
+QUESTION; TRUE;
+TRUE; Enter Sandman | Nothing Else Matters | The Unforgiven 
+TRUE; Sad But True | Wherever I May Roam
+//
+//
+//
+//
+//
+ARTIST; Michael Jackson; **; MV; bfcff67f-8d35-1b75-dad5-59c90e21b567; 1.17; US
+TRIVIA; This singer, songwriter, and actor from Indiana (1958 – 2009), sometimes called the 'King of Pop', won 13 Grammy Awards among many others during a career spanning forty years
+QUESTION; TRUE;
+BOUGHT; Billie Jean
+TRUE; Beat It | Thriller | Bad 
+TRUE; The Way You Make Me Feel | Man in the Mirror
+//
+//
+//
+//
+ARTIST; Milk & Sugar & Vaya Con Dios
+BOUGHT; Hey (Nah Neh Nah) [Milk & Sugar Club Mix] (5:51)
+//
+//
+//
+//
+//
+//
+//
+//
+ARTIST; Mocedades; **; F_BAND; 60c072c0-568f-089f-7c52-55bc3700c335; 1.0
+TRIVIA; "Eres tú", performed by the Spanish band Mocedades reached second place in the 1973 Eurovision Song Contest, and became one of the few Spanish songs to reach the top 10 in the U.S.
+QUESTION; OTHER; Mocedades are one of five Spanish performers to have scored a top ten hit in the U. S. Two of the others were Julio and Enrique ?
+HINT; Pick last name
+TRUE; Iglesias
+FALSE; Moreno | Banderas | Lobos
+//
+//
+// BOUGHT; Eres Tú
+//
+ARTIST; The Monkees; **; BAND; 134cef57-30cd-351c-14d9-e5a5ff11ac62; 1.0; US
+TRIVIA; This American-British pop/rock band had numerous international hits in the 60s and 70s
+TRIVIA; At their peak in 1967, the band outsold both the Beatles and the Rolling Stones combined
+QUESTION; TRUE;
+BOUGHT; I'm a Believer 
+BOUGHT; Daydream Believer
+BOUGHT; Last Train to Clarksville
+//
+//
+// 
+ARTIST; Mungo Jerry; **; BAND_BRIT; 6052e13a-7280-decd-8711-dcd05d895d57; 0.66; UK
+TRIVIA; A British rock group fronted by Ray Dorset whose greatest success was in the early 70s
+QUESTION; TRUE; Another Hit by this group ?
+BOUGHT;In the Summertime 
+TRUE; Little Miss Hipshake
+// *
+//
+//
+//
+// ******************************
+ARTIST; Naked Eyes; **; BAND_BRIT; 5b9fba4a-95bf-8ba2-bae7-f580629b922a; 1.0; UK
+TRIVIA; This British band of the early '80s, which was one of the pioneers of the use of the synthesizer, charted four top 40 singles. Genre: New wave
+QUESTION; TRUE;
+BOUGHT; Always Something There to Remind Me
+TRUE; Promises, Promises | When the Lights Go Out
+TRUE; (What) In the Name of Love
+//
+//
+//
+//
+ARTIST; Nancy Sinatra; **; FV; e90ef10f-93da-4707-f782-bb5c7cce8175; 1.0; US
+TRIVIAS; Actress and singer from New Jersey. Nancy was the daughter of Frank Sinatra
+QUESTION; TRUE;
+BOUGHT; These Boots Are Made for Walkin'
+BOUGHT; Bang Bang (My Baby Shot Me Down)
+//
+//
+//
+//
+//
+ARTIST;Nat "King" Cole & Stubby Kaye
+BOUGHT;The Ballad of Cat Ballou 
+//
+//
+//
+//
+//
+//
+//
+//
+ARTIST; Natasha England; **; FV; 836f8834-d9d0-2234-64c0-05610f3e54f8; 1.0; UK
+TRIVIA; This singer from Scotland recorded the UK top ten hit "Iko Iko", a New Orleans song about two "tribes" of Mardi Gras Indians 
+QUESTION; TRUE;
+BOUGHT;Iko Iko
+TRUE; Maybe
+// QUESTION; TRUE; The original title of Natasha's hit "Iko Iko" was this song first recorded by the Dixie Cups ?
+// TRUE; Jock-A-Mo
+// FALSE; Swamp Music | Fee Na-Na
+// FALSE; My Grandma & Your Grandma
+//
+ARTIST; Nazareth; **; METAL; 7aa4fced-0e83-b9ec-1fda-cea43b6d6545; 1.38; UK 
+TRIVIA; This Scottish hard rock band, formed in 1968, had multiple hit singles in the UK and gained international fame in the 70s 
+QUESTION; TRUE;
+TRUE; Hair of the Dog | Love Hurts
+TRUE; Whiskey Drinkin' Woman
+//
+//
+//
+//
+//
+ARTIST; Neil Diamond; **; MV; 3b87ee5b-8f91-53fc-530f-0819a86ee328; 1.0; US 
+TRIVIA; This singer-songwriter' career began in the 1960s. He has had eleven No. 1 singles, and is still active today. 
+TRIVIA; Diamond is one of the world's best-selling artists of all time. He was inducted into the Songwriters Hall of Fame and the Rock and Roll Hall of Fame 
+QUESTION; TRUE;
+BOUGHT; Sweet Caroline | Cherry, Cherry | Cracklin' Rosie
+TRUE; Song Sung Blue | America 
+//
+//
+//
+//
+ARTIST; Neil Young; **; MV; c8026728-5e45-1b7c-3b8d-135ea48839ef; 1.78; CAN
+TRIVIA; This Canadian singer-songwriter and guitar player, born in 1945, is renowned for acoustic folk-rock and country rock, as well as electric hard rock music
+QUESTION; TRUE;
+BOUGHT; Heart of Gold    
+TRUE; Old Man | Harvest Moon
+TRUE; Cinnamon Girl
+//
+//
+//
+//
+ARTIST; Nicolette Larson; **; FV; e28edf61-63ba-f56a-1dd7-f036cce2013d; 1.0; US
+TRIVIA; This American pop singer who charted multiple Adult Contemporary hits and pop hits in the '70s died at age 45
+QUESTION; TRUE;
+BOUGHT; I Only Want to Be With You | Lotta Love
+TRUE; Come Early Mornin' | Rumba Girl | Let Me Go, Love
+//
+//
+//
+//
+//
+ARTIST; Nitty Gritty Dirt Band; **; BAND; 5d6bc4f9-94a1-c9dc-5d28-8ca935d71d0d; 1.2; US
+TRIVIA; A band founded in California in 1966. Its genre includes Folk, country, folk rock, country rock and bluegrass
+QUESTION; TRUE;
+BOUGHT; Mr. Bojangles
+TRUE; Fishin' In the Dark | Will the Circle Be Unbroken
+//
+//
+//
+//
+//
+ARTIST;No Age
+BOUGHT;Fever Dreaming 
+//
+//
+//
+//
+//
+//
+//
+//
+ARTIST; The Nolans; **; F_BAND; 09541917-0c25-2274-5e2b-4f909129bd77 ; 1.34; UK
+TRIVIA; An Irish-English all girl Pop group formed in 1974 best know for their UK #3 hit "I'm In the Mood for Dancing". 
+QUESTION; TRUE;
+BOUGHT; I'm In the Mood for Dancing
+TRUE; Gotta Pull Myself Together
+TRUE; Sexy Music
+//
+//
+//
+//
+ARTIST;
+// MUSIC WIKI  OPQR - 05-20-2017
+O,10,60,P,60,270,Q,270,290,R,290,510
+//   
+//
+// BAND    | BAND_BRIT | DUO_MF | DUO_M    
+// FV   | F_BAND    | FV_CTRY         F_BAND = female mixed
+// MV    | MV_BRIT   | MV_CTRY
+//
+//
+//
+ARTIST; Olivia Newton-John; **; FV; e6689804-f60a-935f-e7e4-4b2975df4283; 0.8; AUS
+TRIVIA; This British-born Australian singer, songwriter, actress, and a four-time Grammy award winner charted five No. 1 Top Ten Billboard Hot 100 singles
+TRIVIA; This British_born Australian musician has achieved world renoun in multiple genres: pop, country, and adult contemporary
+QUESTION; TRUE; Newton-John
+BOUGHT; Hopelessly Devoted to You | Physical | Magic             
+BOUGHT; Xanadu
+// 
+//
+//
+//
+ARTIST;O'Malley's Folk Music Players
+BOUGHT;The Bag of Spuds
+//
+//
+//
+//
+//
+//
+//
+//
+ARTIST; One To One; **; F_BAND; a1317dbb-c5b7-af05-be39-40817e6729a4; 1.0; CAN  
+TRIVIA; One to One was a Canadian pop music group formed in 1984 in Ottawa, Ontario, Canada. They later changed their name to One 2 One. 
+QUESTION; TRUE;
+TRUE; There Was a Time | Angel in My Pocket
+//
+//
+//
+//
+//
+//
+ARTIST; The Original Caste; **; F_BAND; 61937388-baa2-6d8c-9377-269f199e4fda; 0.86; CAN  
+TRIVIA; The Original Caste is a Canadian folk group. The band formed in Calgary, Alberta, Canada in 1966 under the name The North Country Singers.
+QUESTION; TRUE;
+TRUE; Mr. Monday | One Tin Soldier
+//
+//
+//
+//
+//
+//
+ARTIST; Orleans; **; BAND; 97ceec5b-5d05-c718-c03b-70733c4e3274; 1.5; US
+TRIVIA; This pop rock quintet formed in New York had #5 and #6 hit singles in the late 70's. Band's name was inspired by New Orleans R&B legends. 
+QUESTION; TRUE;
+BOUGHT; Still the One
+TRUE; Dance With Me
+//
+//
+//
+//
+//
+ARTIST; Osmond Brothers; **; BAND
+TRIVIA; This American family music group sang barbershop music as children and became teen-music idols
+TRIVIA; The Osmonds produced a hit TV show and had great success as solo and group performers.  
+QUESTION; TRUE;
+BOUGHT; I Think About Your Lovin'
+TRUE; He Ain't Heavy He Is My Brother | Gonna Be A Heartache Tonight
+TRUE; If Every Man Had a Woman Like You | One Bad Apple 
+// QUESTION; DIALOG; Their only sister became a top solo country music singer in the 70s. HINT; Give her FIRST NAME :  ?????  ANSWER; Marie | Mary
+//
+//
+ARTIST; The Ozark Mountain Daredevils; **; BAND; 26eceffa-0e5b-505c-d2af-d0de6af34030; 1.3; US    
+TRIVIA; This Southern rock and country rock band formed in 1972 in Missouri, are best known for two major single hits in the late 70s
+QUESTION; TRUE;    
+BOUGHT; Jackie Blue
+TRUE; If You Wanna Get To Heaven    
+//
+//
+//
+//
+// ****************************
+ARTIST; Pat Boone; **; MV
+TRIVIA; This American singer, composer, actor was one of the biggest pop artists in the 50s and early 60s with 38 Top 40 hits
+QUESTION; TRUE;
+BOUGHT; Love Letters in the Sand
+BOUGHT; April Love | Speedy Gonzales
+//
+//
+//
+//
+//
+ARTIST; Patsy Cline; **; FV_CTRY; 4a32f579-ffeb-0d29-bc87-43ec3d0c400b; 0.7; US
+TRIVIA; This country music pioneer born in Virginia in 1932, who died in a plane crash at the age of 30, was the first female singer inducted in the Country Music Hall of Fame. Genres; Nashville sound, country, pop
+QUESTION; TRUE;
+BOUGHT; Crazy
+TRUE; I Fall to Pieces | Walkin' After Midnight
+TRUE; She's Got You | Sweet Dreams
+//
+//
+//
+//
+ARTIST; Patti Smith; **; FV; a1dca897-ceb5-6171-1bc9-db6a084b4a5e; 0.7; US
+TRIVIA; an American singer-songwriter, poet nicknamed the "Godmother of Punk" infuencial in the New York City punk rock scene 
+QUESTION; OTHER; Smith's signature song, 'Because the Night', was co-written with what famous musician-songwriter from New Jersey known as 'The Boss' ? 
+TRUE; Bruce Springsteen
+FALSE; Billy Joel | Billy Idol | James Taylor  
+// BOUGHT;Because the Night 
+//
+//
+//
+//
+ARTIST; Patty Smyth; **; FV; 95711303-66d6-ba28-cb3a-417f0137feb7; 1.0; US
+TRIVIA; This singer, songwriter, born in New York in 1957, earned a Grammy Award nomination for Best Original Song for "Look What Love Has Done" from the 1994 movie, Junior 
+QUESTION; TRUE; 
+BOUGHT Sometimes Love Just Ain't Enough
+TRUE; The Warrior (feat. Scandal)
+//
+// QUESTION; DIALOG; Smyth married rambunctious American tennis champion John ??????? in 1997. 
+// HINT; Give last name. 7 letters 
+// ANSWER; John McEnroe | mcenroe | macenroe | mcenrow
+// 
+ARTIST; Paul Revere & the Raiders; **; BAND
+TRIVIA; This rock band who charted in the '60s and '70s were a regular feature on Dick Clark's TV show and were billed as America's response to the British Invasion. Genre: Pop rock, rock and roll, garage rock
+QUESTION; TRUE; Paul Revere
+BOUGHT; Indian Reservation
+TRUE; Kicks | Just Like Me | Hungry
+//
+//
+//
+//
+//
+ARTIST; Paul Simon; **; MV; 70b328b1-cc42-02ff-58fb-7551c1dd9fd2; 1.0; US
+TRIVIA; This American musician and singer-songwriter' fame began as part of the duo Simon & Garfunkel in the '60s 
+TRIVIA; Simon has earned 12 Grammys and was inducted into the Rock and Roll Hall of Fame
+QUESTION; TRUE;
+BOUGHT; 50 Ways to Leave Your Lover | Kodachrome        
+BOUGHT; Loves Me Like a Rock | Mother and Child Reunion    
+//
+//
+//
+//
+ARTIST; Percy Sledge; **; MV; c68416a4-a563-2117-adf9-93e68d60bd25; 1.0; US
+TRIVIA; An R&B, soul, and pop singer, born in 1940 in Alabama. 'When a Man Loves a Woman' was a No. 1 hit in 1966. Percy was was inducted into the Rock & Roll Hall of Fame in 2005. He fathered 12 children
+QUESTION; TRUE;
+BOUGHT; When a Man Loves a Woman
+TRUE; Take Time to Know Her | It Tears Me Up
+//
+//
+//
+//
+//
+ARTIST;Pérez Prado
+BOUGHT;Mambo No. 5 
+BOUGHT;Que Rico el Mambo 
+//
+//
+//
+//
+//
+//
+//
+ARTIST; Peter, Paul & Mary; **; F_BAND; 96050e0f-d0b4-f193-85bd-e662e951fa3e; 1.1; US 
+TRIVIA; This folk-singing trio from New York had a 50-year career that began with the folk music of the 60s 
+QUESTION; TRUE;
+BOUGHT;If I Had a Hammer
+BOUGHT; Where Have All the Flowers Gone
+BOUGHT; Puff, the Magic Dragon | This Land Is Your Land
+BOUGHT; Blowin' In the Wind | Leaving On a Jet Plane
+//
+//
+//
+ARTIST; Peter Frampton; **; MV_BRIT; 72776767-6afb-2f1a-5b82-bf07f2945865; 1.25; UK
+TRIVIA; This English-American classic rock singer, songwriter, and guitarist, born in London in 1950, sold millios of albums internationally that included several major hits. 
+QUESTION; TRUE;
+BOUGHT; Show Me the Way        
+TRUE; Baby, I Love Your Way | Do You Feel Like We Do
+TRUE; I'm in You
+//
+//
+//
+//
+ARTIST; Petula Clark; **; FV; 0649b021-8be6-2c1d-e030-0433475bf3e5; 1.6; UK
+TRIVIA; This English singer, actress, and composer, known as the First Lady of the British Invasion was an entertainer on BBC Radio during World War II. Genres: Pop, theatre
+QUESTION; TRUE;
+BOUGHT; Downtown | My Love
+TRUE; Don't Sleep in the Subway | I Know a Place
+TRUE; A Sign of the Times | Colour My World 
+//
+//
+//
+//
+ARTIST; Pink Floyd; **; BAND_BRIT; 25897b72-1a21-52cd-e964-b94659f2d66d; 1.5; UK
+TRIVIA; This English rock band founded in London by four students achieved great success worldwide during the late '60s. Genres: psychedelic rock, blues rock
+QUESTION; TRUE;
+BOUGHT; Another Brick In the Wall    
+TRUE; Money | Wish You Were Here | Comfortably Numb
+//
+//
+//
+//
+//
+ARTIST; The Platters; **; BAND 
+TRIVIA; With four number 1 hit singles, this vocal group from California was the first African American group to achieve worldwide fame in the early rock and roll era
+QUESTION; TRUE;
+BOUGHT; The Great Pretender | Only You (And You Alone) | Unchained Melody
+//
+//
+//
+//
+//
+//
+ARTIST; Player; **; BAND; ec342a4f-3022-6d52-b197-40057265fc3b; 1.42; US
+TRIVIA; This rock band of the 70s formed in California, charted three US Top 40 hits and the No. 1 hit "Baby Come Back". 
+QUESTION; TRUE;
+BOUGHT; Baby Come Back
+TRUE; This Time I'm in It for Love
+//
+//
+//
+//
+//
+ARTIST; The Pointer Sisters; **; F_BAND; 885201b6-1fbb-2693-b142-efba0eac1031; 1.7; US
+TRIVIA; This R&B girl trio from California, famous in the '70s and '80s, won 3 Grammy Awards and a star on the Hollywood Walk of Fame. Genres: R&B, Soul, Jazz
+QUESTION; TRUE;
+BOUGHT; Slow Hand | Neutron Dance
+TRUE; I'm So Excited | Fire
+//
+//
+//
+//
+//
+ARTIST; The Police; **; BAND_BRIT; 65a1276e-c8cb-5d2e-0af5-f610e6079be2; 1.36; UK
+TRIVIA; This English rock band formed in 1977 was one of the leaders of the Second British Invasion
+TRIVIA; This English rock band became popular worldwide in the 70s and is one of the first successful new wave groups
+TRIVIA; This English rock band has won six Grammy Awards and  was inducted into the Rock and Roll Hall of Fame in 2003
+QUESTION; TRUE;
+BOUGHT;    Every Breath You Take
+TRUE; Every Little Thing She Does Is Magic | Roxanne
+//
+//
+//
+ARTIST; The Poppy Family; **; F_BAND; 35978a07-8621-317a-e644-4ff17e8aba9c; 1.0; CAN 
+TRIVIA; This Canadian pop music group became very popular worldwide in the late 60s and 70s. Members included Susan and husband Terry Jacks of "Seasons in the Sun" fame. 
+QUESTION; TRUE;
+BOUGHT; Which Way You Goin' Billy?
+TRUE; That's Where I Went Wrong | Where Evil Grows
+//
+//
+//
+//
+//
+ARTIST; Pretenders; **; BAND_BRIT; f470d42e-4678-1da6-46d5-d0da75168307; 1.5; UK
+TRIVIA; This English-American rock band formed in England in 1978 was inducted into the Rock and Roll Hall of Fame in 2005
+QUESTION; TRUE;
+BOUGHT; I'll Stand By You | Back On the Chain Gang
+TRUE; Brass In Pocket| Middle of the Road
+//
+//
+//
+//
+//
+ARTIST; Prince; **; MV; d9130877-d344-1c57-fe35-2ed16a96745c; 0.66; US 
+TRIVIA; Prince died on April 21 at age 57. This singer and songwriter, born in Minnesota, was a Rock and Roll Hall of Famer who won seven Grammy Awards. 
+QUESTION; TRUE;
+TRUE; Little Red Corvette
+TRUE; I Would Die 4 You
+TRUE; 1999
+//
+//
+//
+//
+ARTIST; Prince & The Revolution; **; MV
+TRIVIA; Prince died on April 21 at age 57. This singer, songwriter and instrumentalist was a legend whose's music included a wide variety of genres, including rock, R&B, soul, and pop.
+QUESTION; TRUE;
+TRUE; Purple Rain
+TRUE; When Doves Cry 
+TRUE; Let's Go Crazy
+//
+//
+//
+//
+ARTIST; The Proclaimers; **; DUO_M; 8aed6c5e-41f0-4ca7-0dec-847dc4eab95c; 1.0; UK
+TRIVIA; This Scottish band of twin brothers is best known for the song "I'm Gonna Be (500 Miles)". The song was the theme song for this romantic comedy film starring Johnny Depp, Mary Masterson and Aidan Quinn
+// BOUGHT; I'm Gonna Be (500 Miles)
+// TRUE; I'm On My Way
+QUESTION; OTHER; Pick this movie best known for Johnny Depp's comic pantomimes
+TRUE; Benny & Joon
+FALSE; Pirates of the Carribean 
+FALSE; Charlie and the Chocolate Factory
+FALSE; Desperately Seeking Suzan
+//
+ARTIST; The Puppini Sisters; **; F_BAND
+TRIVIA; A vocal group of the '40s composed of a trio of Italian, English and American singers. Genre: Close harmony, swing
+QUESTION; TRUE;
+BOUGHT; Boogie Woogie Bugle Boy (Of Company B)
+TRUE; jilted
+// 
+// QUESTION;  DIALOG; The trio is not related. They chose the name in tribute to the famous 3 sisters of swing: The A?????? Sisters.
+// HINT; These sisters first popularized the WWII tune 'Boogie Woogie Bugle Boy', an early example of rhythm and blues
+// ANSWER; Andrews | ndrews | andreus
+// ************************** 
+ARTIST; Queen; **; BAND_BRIT; eb2728e8-6f2a-7459-a1a0-4ccbe94329a5; 1.0; UK
+TRIVIA; This British rock band formed in London in 1970 became one of the biggest stadium rock bands in the world
+QUESTION; TRUE;
+BOUGHT; We Will Rock You | We Are the Champions 
+BOUGHT; Another One Bites the Dust
+BOUGHT; Bohemian Rhapsody
+//
+//
+//
+//******************************
+ARTIST; Radiohead; **; METAL; fa9ba02b-d40b-8ed2-1c12-2529a90859fc; 1.5; UK
+TRIVIA; This alternative rock and electronica band, formed in 1985 in England, released their first single in 1991 and was voted the second-best artist of the 2000s by Rollng Stone
+QUESTION; TRUE;
+TRUE; Creep | 15 Step
+TRUE; House of Cards | Reckoner
+//
+//
+//
+//
+//
+ARTIST; Rainbow; **; METAL; e4b8275c-bd68-422b-5e36-74ca64dcc76b; 1.12; UK
+TRIVIA; This British hard rock and heavy metal band, active 1975 to 97, sold over 28 million albums worldwide
+QUESTION; TRUE;
+TRUE; Since You Been Gone | Street of Dreams
+TRUE; Man On the Silver Mountain
+//
+//
+//
+//
+//
+ARTIST; Ramones; **; BAND; 378c475d-ef20-ba80-8ccd-d7e8762febe0; 1.39; US
+TRIVIA; This rock band formed in New York City in 1974 toured nonstop for 22 years and greatly influenced the punk rock movement in both the US and the UK
+TRIVIA; The Ramones made the Rolling Stone list of the '100 Greatest Artists of All Time' and were awarded a Grammy Lifetime Achievement Award in 2011
+QUESTION; TRUE; the Ramones
+BOUGHT; California Sun
+TRUE; I Wanna Be Sedated | Sheena Is a Punk Rocker | Do You Wanna Dance
+// 
+//
+//
+//
+ARTIST; Rammstein; **; BAND; 1f90cabe-43a5-29a4-3eee-b157bdf3d857; 1.15; GER 
+TRIVIA; Billie's favorite Heavy Metal band (German Neue Deutsche Härte band), formed in 1994 in Berlin. 'Pussy' was their first number one single in German
+QUESTION; OTHER; What did Rammstein lead singer Till Lindemann say to tay? 
+TRUE; Put my bratwurst in your sauerkraut
+FALSE; See you in Church tomorrow
+FALSE; I love your hair | You have beautiful eyes
+//
+//
+//
+//
+ARTIST; Randy Travis; **; MV_CTRY; f96a3302-45f2-366f-dba0-6d7c9df102bd; 1.5; US
+TRIVIA; This country music singer, songwriter and actor charted 16 #1 singles on the Billboard Hot Country Songs charts in the '80s
+TRIVIA; This country music singer, songwriter and actor has 22 #1 hits, six Grammy awards, six CMA awards and a star on the Hollywood Walk of Fame
+QUESTION; TRUE;
+BOUGHT; Diggin' Up Bones | Forever and Ever        
+BOUGHT; Deeper Than the Holler
+// 
+//
+//
+//
+ARTIST; Ray Charles; **; MV
+TRIVIA; This American singer, songwriter and musician, blind from early childhod and  nicknamed "The High Priest of Soul", was ranked number ten in 2004 on Rolling Stones' list of the "100 Greatest Artists of All Time"
+QUESTION; TRUE;
+BOUGHT; What'd I Say, Pts. 1 & 2
+TRUE; Mess Around | I've Got a Woman
+//
+//
+//
+//
+//
+ARTIST; Ray Stevens; **; MV_CTRY; 37ebba96-8023-6000-34ab-46e0cb9e87a0; 1.0; US
+TRIVIA; This country singer-songwriter and comedian from Georgia, born in 1939, was inducted into the Nashville Songwriters Hall of Fame. 
+QUESTION; TRUE;
+BOUGHT; Everything Is Beautiful
+TRUE; The Streak | The Mississippi Squirrel Revival
+//
+//
+//
+//
+//
+ARTIST; Reba McEntire; **; FV_CTRY; 59fb7719-b7c0-5ee8-9deb-1a0b1a17d6e5; 1.0; US
+TRIVIA; This American country music singer, songwriter and actress, born in 1955, began her singing career as a high school student 
+TRIVIA; McEntire is known as the "Queen of Country" and is one of the best-selling country music artists of all time
+QUESTION; TRUE; 
+BOUGHT; The Night the Lights Went Out in Georgia 
+TRUE; Fancy | Consider Me Gone | I Keep On Lovin' You
+//
+//
+//
+//
+ARTIST; REO Speedwagon; **; BAND; 166dca9d-f165-137f-fba0-eea0de446c59; 2.0; US 
+TRIVIA; This rock band from Illinois, popular in the 70s and 80s, charted 13 Top 40 hits including 3 number ones
+TRIVIA; An American rock band active 1970 to present. Their  best selling album. Hi Infidelity (1980), had four US Top 40 hits and sold over 10 million copies.
+QUESTION; TRUE;
+TRUE; Keep On Loving You | Take It on the Run 
+TRUE; Can't Fight This Feeling | One Lonely Night
+//
+//
+//
+// 
+ARTIST; Rick James; **; MV; 2b2b418e-99ec-c1e8-a5f4-0bd5d81bc872; 0.93; US
+TRIVIA; Rick James was an American musician and composer known as the 'King of Punk Funk' 
+QUESTION; TRUE;
+BOUGHT; Super Freak 
+TRUE; Mary Jane
+TRUE; Give It to Me Baby
+//
+//
+//
+//
+ARTIST; Rick Nelson; **; MV
+TRIVIA; This American actor, musician and singer-songwriter appeared in the TV series Ozzie and Harriet and starred alongside John Wayne and Dean Martin in the film Rio Bravo. 
+TRIVIA; This American actor, musician and singer-songwriter recorded 20 Top 10 hits in the 60s and was inducted into the Rock and Roll Hall of Fame in 1987
+QUESTION; TRUE;
+BOUGHT; Garden Party
+TRUE; Poor Little Fool | Travelin' Man | Hello Mary Lou
+//
+//
+//
+//
+ARTIST; Rick Springfield; **; MV; 21da4803-e505-f6bf-e576-17580c69e9b4; 0.8; AUS
+TRIVIA; This Australian musician, singer, and actor, born in 1949, had a #1 hit single in 1981 in Australia and the US, and four more top 10 US hits
+QUESTION; TRUE;
+BOUGHT; Jessie's Girl
+TRUE; I've Done Everything for You | Don't Talk to Strangers 
+TRUE; Affair of the Heart | Love Somebody 
+//
+//
+//
+//
+ARTIST; The Righteous Brothers; **; DUO_M; 4d097ebb-66fb-ccdf-c943-5f097d3f69a4; 0.94; US
+TRIVIA; This vocal duo of baritone Bill Medley and tenor Bobby Hatfield, popular in the '60s and '70s in the 'blue-eyed soul' genre, also performed as soloists. 
+QUESTION; TRUE;
+BOUGHT; Unchained Melody
+TRUE; You've Lost That Lovin' Feelin' | You're My Soul and Inspiration
+//
+//
+//
+//
+//
+ARTIST; Ringo Starr; **; MV_BRIT; 06ca3ff5-98b4-ffab-93cf-c00491d5e069; 1.0; UK
+TRIVIA; This musician, singer, songwriter who gained fame as the drummer for the Beatles, later had several single hits
+QUESTION; TRUE;
+BOUGHT; Photograph
+TRUE; It Don't Come Easy
+TRUE; You're Sixteen (You're Sixteen You're Beautiful and You're Mine)
+TRUE; Back Off Boogaloo
+//
+//
+//
+//
+ARTIST; Ritchie Valens; **; MV; 5b62f8a3-1e01-e114-9bf8-3354c32749ff; 1.51; US  
+TRIVIA; This singer, songwriter and guitarist from California, was a pioneer of the Chicano rock, whose  short career of 8 months ended with his untimely death in a 1959 plane crash on the "The Day the Music Died". He was inducted into the Rock and Roll Hall of Fame in 2001
+QUESTION; TRUE;
+BOUGHT; La Bamba
+TRUE; Donna | Come On, Let's Go
+// *
+//
+//
+//
+//
+ARTIST; Robert Palmer; **; MV_BRIT; ef5c4f6d-841c-c09d-f50a-de32aa0f69b9; 1.0; UK
+TRIVIA; This English singer-songwriter and musician, who won two Grammy Awards and an MTV Video Music Award, produced famous music videos of female dancers with pale faces and red lipstick   
+QUESTION; TRUE;
+BOUGHT; Simply Irresistible | Can We Still Be Friends?
+BOUGHT; Bad Case of Loving You (Doctor, Doctor)
+TRUE; I Didn't Mean to Turn You On | Addicted to Love
+//
+//
+//
+//
+ARTIST; Roberta Flack; **; FV; f057d731-de5e-a53d-c602-da8d5662aeea; 0.71; US
+TRIVIA; This singer and musician from North Carolina, born in 1939, had two #1 hits and was the first to win the Grammy Award for Record of the Year twice in a row
+QUESTION; TRUE;
+BOUGHT; Killing Me Softly with His Song
+TRUE; The First Time Ever I Saw Your Face
+//
+//
+//
+//
+//
+ARTIST; Rod Stewart; **; MV_BRIT; f9bfc7d1-bb7a-74ce-3e40-faa1be3cc90f; 1.0; UK
+TRIVIA; This British rock singer-songwriter was inducted into the US Rock and Roll Hall of Fame in 1994
+TRIVIA; Stewart has had 16 top ten singles in the US, with four reaching #1 on the Billboard Hot 100
+QUESTION; TRUE;
+BOUGHT; Maggie May | You're In My Heart (The Final Acclaim)
+BOUGHT; Forever Young | Da Ya Think I'm Sexy?
+BOUGHT; Tonight's The Night (Gonna Be Alright)
+//
+//
+//
+ARTIST; The Rolling Stones; **; BAND_BRIT; de8026bf-0159-6e9e-6bd2-a610ff0594dc; 1.27; UK
+TRIVIA; This English rock band was inducted into the Rock and Roll Hall of Fame in 1989
+QUESTION; TRUE;
+BOUGHT;(I Can't Get No) Satisfaction | Honky Tonk Women
+BOUGHT; Brown Sugar | Start Me Up  | Miss You
+TRUE; You Can't Always Get What You Want
+// *
+//
+//
+//
+ARTIST; Rosemary Clooney; **; FV; 0a0c79ee-1693-d673-04e8-366477639c30; 1.0; US
+TRIVIA; This cabaret singer, actress and jazz vocalist born in 1928 in Kentucky, became famous in the in the '50s with the hit song "Come On-a My House"
+QUESTION; TRUE;
+BOUGHT; Come On-A My House | Mambo Italiano    
+//
+// QUESTION; DIALOG; Rosemary co-starred in the 1954 movie "White Christmas" with famous singer Bing ?????
+// HINT; Give last name. 6 letters 
+// ANSWER; Bing Crosby | crosby  | cosby  | crosbie
+// 
+//
+ARTIST; Roy Orbison; **; MV; 9bd1ea9b-7bbb-6132-edf6-e1a9d7b0da07; 0.75; US
+TRIVIA; This singer-songwriter from Texas, nicknamed The Big O for his powerful voice, charted 22 songs  on the Billboard Top 40 in the early '60s
+QUESTION; TRUE; 
+BOUGHT; Oh, Pretty Woman | You Got It        
+TRUE; Crying | Only the Lonely
+// 
+// 
+//
+//
+//      
+ARTIST; Rupert Holmes; **; MV; f250f969-3a3d-2e26-22da-ba5021320ab1; 1.0; US
+TRIVIA; This singer-songwriter, musician and playright from NY, born in England in 1947, had a number 1 pop hit song in 1980  
+QUESTION; TRUE;
+BOUGHT; Escape (The Pina Colada Song)
+TRUE; Him
+//
+//
+//
+//
+//
+ARTIST; Rush; **; BAND; a381a40c-9570-80f0-b21a-f8f13e8f40ca; 2.0; CAN
+TRIVIA; Rush is a Canadian rock band composed of Geddy Lee (bass guitar, lead vocals, keyboards), Alex Lifeson (guitars, backing vocals) and Neil Peart (drums, percussion, lyrics).
+QUESTION; TRUE;
+TRUE; Tom Sawyer | Fly By Night | Limelight
+TRUE; Closer To The Heart | Xanadu
+// 
+// 
+// 
+// 
+//
+ARTIST;
+// MUSIC WIKI ST - 5-27-2017
+S,10,220,T,220,440
+//   
+// 
+// BAND    | BAND_BRIT | DUO_MF | DUO_M    
+// FV   | F_BAND    | FV_CTRY         F_BAND = female mixed
+// MV    | MV_BRIT   | MV_CTRY | MUSICAL
+//
+//
+//
+ARTIST; Sandy Posey; **; FV; d010e21b-9560-b6ab-38a7-8532808a2ccd; 1.0; US
+TRIVIA; This Pop and Country singer with a "sweet voice", born 1944 in Alabama, had four hit singles that rose to # 12 in the US
+QUESTION; TRUE;
+BOUGHT; I Will Follow Him
+TRUE; A Single Girl | Born a Woman | I Take It Back
+//
+//
+//
+//
+//
+ARTIST; SARAH BRIGHTMAN; **; MUSICAL; da13d765-3e1b-bb3e-9dbd-59d358f99d46; 1.33; UK
+TRIVIA; Love Changes Everything is a song from the musical Aspects of Love, first sung in the musical by Don Black. It was later sung by this famous soprano who married the composer. 
+QUESTION; OTHER; Name the composer of the song and musical
+TRUE; Andrew Lloyd Webber
+FALSE; Cole Porter | George Gershwin | Henry Mancini
+FALSE; Irving Berlin | Rodgers and Hammerstein
+//
+//
+//
+//
+ARTIST; Sarah Vaughan; **; FV; 8751e0ac-1a9b-4ab0-b22e-ff07d7a78e1f; 1.41; US    
+TRIVIA; This jazz singer from New Jersey (1924 – 1990), nicknamed 'The Divine One', was a Grammy Award winner
+QUESTION; TRUE;
+BOUGHT; Whatever Lola Wants (Lola Gets)
+TRUE; Broken Hearted Melody
+//
+//
+//
+//
+//
+ARTIST; Scorpions; **; METAL; 01f682e3-fcfa-02b0-d193-c3a5eebc520d; 1.33;
+TRIVIA; This German hard rock and heavy metal band, formed in 1965, attained fame in the 80s and had one of the best-selling singles in the world celebrating the fall of the Berlin Wall
+TRIVIA; This German hard rock and heavy metal band, formed in 1965, had six singles charting number one in different countries. 
+QUESTION; TRUE;
+TRUE; Rock You Like a Hurricane | No One Like You | Send Me An Angel
+TRUE; Wind of Change | Still Loving You
+//
+//
+//
+//
+ARTIST; Seals & Crofts; **; DUO_M; 55819302-5e66-e431-32fd-9b082466eb70; 1.0; US 
+TRIVIA; This duo of soft rock and pop rock from Texas had three Hot 100 hint songs in the 70s 
+QUESTION; TRUE;
+BOUGHT; Summer Breeze | Get Closer 
+TRUE; Diamond Girl 
+//
+//
+//
+//
+//
+ARTIST; The Seekers; **; BAND; 28c826a3-062f-8909-61b7-533b991b0344; 1.0; AUS 
+TRIVIA; The Seekers are an Australian folk-influenced pop quartet, originally formed in Melbourne in 1962.
+QUESTION; TRUE;
+TRUE; I'll Never Find Another You
+TRUE; Georgy Girl
+//
+//
+// 
+//
+//
+ARTIST; Shocking Blue; **; F_BAND; 4a98932e-c704-704e-a17a-0de0969d7bd3; 1.0; NON
+TRIVIA; 
+Shocking This Dutch rock band formed in 1967 had a No. 1 hit song on the Billboard Hot 100 in 1970 that sold 13 million copies
+QUESTION; TRUE;
+BOUGHT; Venus
+TRUE; Send Me a Postcard | Love Buzz
+//
+//
+//
+//
+ARTIST; Simon & Garfunkel; **; DUO_M; 5728dffe-f451-2657-f6c0-0f9402e2ba78; 1.0; US
+TRIVIA; This American duo of guitarist, singer-songwriter Paul Simon and singer Art Garfunkel were one of the most popular artists of the '60s. Genre: folk rock
+QUESTION; TRUE;
+BOUGHT; Mrs. Robinson | The Sound of Silence | Cecilia | Bridge over Troubled Water        
+//
+// 
+// QUESTION; DIALOG; Their music was the soundtrack for a 1967 comedic film starring Dustin Hoffman : The ????????
+// HINT; Name the film. One word 8 letters
+// ANSWER; Graduate | the graduate
+//
+ARTIST; Sister Sledge; **; F_BAND; d9bdcbeb-e5fe-0a8e-0b8e-4e120d9f2b44; 1.78; US
+TRIVIA; This musical group of four sisters, formed in Philadelphia in 1971, gained international fame at the peak of the disco era.
+QUESTION; TRUE;
+BOUGHT; We Are Family
+TRUE; He's the Greatest Dancer
+//
+//
+//
+//
+//
+ARTIST; Starship; **; F_BAND; cb0a5689-ece4-b26a-7ade-ee1a5cd6f3aa; 1.0; US
+TRIVIA; This American rock band scored two No. 1 hits from an album released in 1985
+QUESTION; TRUE;
+BOUGHT; Nothing's Gonna Stop Us Now | We Built This City
+BOUGHT; Sara
+//
+//
+//
+//
+//
+ARTIST; Stealers Wheel; **; BAND_BRIT; a8a722a2-cdf5-18d3-265d-f080454719f7; 1.56; UK
+TRIVIA; A Scottish folk rock band formed in 1972 considered to be the British version of American folk-rock era groups. Genres: Rock, folk rock, soft rock and country rock
+QUESTION; TRUE;
+BOUGHT; Stuck In the Middle With You
+TRUE; Late Again | I'll Get By | Back On the Road
+//
+//
+//
+//
+//
+ARTIST; Steely Dan; **; BAND; 39e7dd63-2677-1624-ac74-de0d8ae91370; 0.9; US
+TRIVIA; This American rock band most popular in the '70s was inducted into the Rock and Roll Hall of Fame in 2001. Genre: Jazz rock
+QUESTION; TRUE;
+BOUGHT; Rikki Don't Lose That Number | Reelin' In the Years
+TRUE; Do It Again | Hey Nineteen
+//
+//
+//
+//
+//
+ARTIST; Steppenwolf; **; BAND; CAN
+TRIVIA; This Canadian rock band was successful worldwide from 1968 to 1972 and charted three Top 10 hits. Genre: rock, hard rock 
+QUESTION; TRUE;
+BOUGHT; Born to Be Wild
+TRUE; Magic Carpet Ride | Rock Me | The Pusher
+//
+//
+//
+//
+//
+ARTIST; Steve Miller Band; **; BAND; 7567e457-89fb-f927-f666-ff6505e0120a; 1.6; US
+TRIVIA; This rock band from California, best known for numerous classic rock hit singles in the mid '70s, was still touring in 2014. Genre: Heartland rock, blues rock
+QUESTION; TRUE; 
+BOUGHT; Abracadabra | The Joker
+TRUE; Take the Money and Run | Rock'n Me
+//
+//
+//
+//
+//
+ARTIST; Steve Riley & The Mamou Playboys
+TRIVIA;
+QUESTION;
+BOUGHT;La Danse De Mardi Gras
+FALSE;
+//
+//
+//
+//
+//
+ARTIST; Stevie Wonder; **; MV; f6125aff-b270-0a33-6139-82c60980b5d3; 1.5; US    
+TRIVIA; This blind musician, singer, songwriter and child prodigy from Michigan has more than 30 U.S. top ten hits and 25 Grammy Awards
+QUESTION; TRUE;
+BOUGHT; You Are the Sunshine of My Life 
+TRUE; Superstition | Sir Duke
+TRUE; I Just Called to Say I Love You
+// 
+//
+//
+//
+ARTIST; Styx; **; BAND; 26eceffa-0e5b-505c-d2af-d0de6af34030; 1.5; US    
+TRIVIA; This [op rock and hard rock band from Chicago released five platinum albums and eight top ten singles in the US in the late 70s and early 80s.
+QUESTION; TRUE;
+BOUGHT; Babe
+TRUE; Renegade | Too Much Time on My Hands
+TRUE; Mr. Roboto | Come Sail Away
+//
+//
+//
+//
+ARTIST; Supertramp; **; BAND; b7d88430-99fc-0a4f-a3eb-849b309afc0a; 2.0; UK
+TRIVIA; Supertramp (known as Daddy in 1969–1970) are an English rock band formed in London in 1969. Though their music was initially categorised as progressive rock, they later incorporated a combination of traditional rock, pop and art rock into their music. The band's work is marked by the songwriting of founders Rick Davies and Roger Hodgson and the prominent use of Wurlitzer electric piano and saxophone.
+QUESTION; TRUE;
+TRUE; The Logical Song | Breakfast in America | Give a Little Bit | It's Raining Again
+TRUE; Take the Long Way Home | Dreamer | Goodbye Stranger
+//
+//
+//
+//
+//
+ARTIST; The Supremes; **; F_BAND; 48924d4a-dd8b-e6ac-a558-5f0cf52053bb; 1.0; US
+TRIVIA; This singing group featured on Motown was the most successful American female vocal group of the '60s. Genres: R&B, doo-wop, soul
+QUESTION; TRUE;
+BOUGHT; Nothing But Heartaches | You Can't Hurry Love
+TRUE; Baby Love | Stop! In The Name Of Love  
+//
+// QUESTION; DIALOG; The lead singer of this group was ????? ????
+// HINT; Give first and last name
+// ANSWER; Diana Ross | diane ross | diana rosse
+//
+ARTIST; The Surfaris; **; BAND; 67cd73b0-cf0e-d3ed-a311-3568ccd0446a; 1.8; US
+TRIVIA; An American surf rock band formed in California in 1962
+TRIVIA; One of their hits was named after a renowned surfing beach in Hawaii 
+QUESTION; TRUE;
+BOUGHT; Wipe Out
+BOUGHT; Point Panic
+TRUE; Surfer Joe
+// 
+//
+//
+ARTIST; Survivor; **; BAND; ; ; 
+TRIVIA; This rock band from Chicago chartered numerous singles in the '80s. Genre: arena rock  
+QUESTION; TRUE;
+BOUGHT; Eye of the Tiger
+TRUE; I Can't Hold Back
+// QUESTION; OTHER; This band's #1 hit "Eye of the Tiger" was the theme song for which movie?
+// TRUE; Rocky III
+// FALSE; Rambo | Charriots of Fire | First Blood
+// 
+// *******************************************
+ARTIST; T. Rex; **; BAND_BRIT; 4f1158c5-416a-4daf-557e-cce5aa4ed5ec; 1.26; UK
+TRIVIA; This British rock band, formed in 1967, hugely popular in the '70s, broke up in 1977, when founder Marc Bolan, a singer, songwriter and musician, died in a car accident 
+QUESTION; TRUE;
+BOUGHT; Bang a Gong (Get It On)
+TRUE; Jeepster | Cosmic Dance | Hot Love
+TRUE; Mambo Sun | Teenage Dream
+//
+//
+//
+//
+ARTIST; Talking Heads; **; F_BAND; 74fcf9cb-c150-e689-a260-d90c3eb8bc46; 1.27; US
+TRIVIA; This rock band from New York (1975,1991), was a prominent band in the '80s and was inducted into the Rock and Roll Hall of Fame in 2002. Genres: new wave, punk 
+TRIVIA; This American rock band formed in 1975 was one of the most critically acclaimed bands of the '80s
+TRIVIA; This American band was inducted into the Rock and Roll Hall of Fame in 2002 
+QUESTION; TRUE;
+BOUGHT; And She Was
+TRUE; Once In a Lifetime | Burning Down the House | Take Me to the River
+//
+//
+//
+ARTIST; Tammy Wynette; **; FV_CTRY; 589b6f5c-dd17-a3a4-c240-0b54a22ebdb7; 1.0; US
+TRIVIA; Tammy won a Grammy award for Best Female Country Vocalist
+TRIVIA; Wynette dubbed the "First Lady of Country Music" was a country music icon during the 1970s. 
+QUESTION; TRUE;
+BOUGHT; Stand By Your Man
+TRUE; D-I-V-O-R-C-E | Till I Can Make It on My Own
+// QUESTION; DIALOG; Tammy sang, in a duo with Dolly Parton, the old love song : Wing of a D???
+// HINT; Give the missing word
+// ANSWER; Dove | ove | dov
+// 
+ARTIST; Tanya Tucker; **; FV_CTRY; 4d9a8c31-db86-e4be-5d4e-90047277941c; 1.0; TEX
+TRIVIA; This female country singer from Texas had her first hit at the age of 13
+QUESTION; TRUE;
+BOUGHT; Two Sparrows In a Hurriane | Love Me Like You Used To
+BOUGHT; Delta Dawn
+TRUE; What's Your Mama's Name Child
+//
+//
+//
+//
+ARTIST; Terry Jacks; **; MV; 431dc732-a0cf-db0d-e8c8-d6165384fe43; 1.0; CAN 
+TRIVIA; A Canadian singer, songwriter,born in 1944, best known for his 1974 hit 'Seasons in the Sun'
+QUESTION; OTHER; Terry and wife Susan formed a band that had several top hits in Canada and the U.S. Name the band. 
+TRUE; Poppy Family
+FALSE; The Band
+FALSE; The Guess Who
+FALSE; Steppenwolf
+// BOUGHT; Seasons In the Sun
+//
+//
+ARTIST; Thompson Twins; **; BAND_BRIT
+TRIVIA; This British band played a prominent roll in the Second British Invasion in the '80s and scored numerous hits around the world
+QUESTION; TRUE;
+BOUGHT; Doctor! Doctor!    
+TRUE; Hold Me Down | If You Were Here 
+//
+//
+//
+//
+//
+ARTIST; Three Dog Night; **; BAND; 123c0783-8dff-e2e7-9825-f12c90a24337; 1.2; US
+TRIVIA; An American rock band formed in 1968 with 3 Billboard Top 40 hits between 1969 and 1975
+QUESTION; TRUE;
+BOUGHT; Joy to the World | Black & White
+TRUE; Mama Told Me (Not to Come) | Shambala | An Old Fashioned Love Song
+//
+// 
+//
+//
+//
+ARTIST; The Three Degrees; **; F_BAND; f1b22c90-cbff-6c57-a9f3-f9173cf83b17; 1.0; US
+TRIVIA; This female vocal trio from Philadelphia has been most successful in the UK, were they had multiple top 60 hit singles in the 70s and 90s
+QUESTION; TRUE;
+BOUGHT; When Will I See You Again
+TRUE; Dirty Ol' Man | Everybody Gets to Go to the Moon
+//
+//
+//
+//
+//
+ARTIST;Tito Puente
+TRIVIA;
+QUESTION;
+BOUGHT;Oye Como Va 
+FALSE
+//
+//
+//
+//
+//
+ARTIST; Tom Jones; **; MV_BRIT; e7a34736-de71-274d-acdd-3c3222d69f02; 0.8; UK
+TRIVIA; This Welsh singer, who became one of the most popular vocalists of the mid '60s, received a knighthood from Queen Elizabeth II
+TRIVIA; Sir Jones, a British Invasion artist, has had 36 Top 40 hits in the U.K. and 19 in the U.S.
+QUESTION; TRUE;
+BOUGHT; She's a Lady 
+TRUE; It's Not Unusual| What's New Pussycat | Delilah 
+//
+//
+//
+//
+ARTIST; Tom Petty; **; MV; f42f730e-7f90-fd0b-870f-fe03a7bd1b04; 1.7; US
+TRIVIA; This American musician, singer, and lead singer of Tom Petty and the Heartbreakers was a co-founder of the 1980s supergroup the Traveling Wilburys 
+QUESTION; TRUE;
+BOUGHT; Runnin' Down a Dream | Free Fallin'
+TRUE; I won't Back Down
+//
+//
+//
+//
+//
+ARTIST; Tom Petty & The Heartbreakers; **; BAND; 1e54864b-6cbd-650b-ed0c-9413a6fd2e9d; 1.5; US 
+TRIVIA; This rock band from Florida, active 1976 to present, are pioneers of the heartland rock movement with classic rock sound and lyrics based on blue collar issues. 
+QUESTION; TRUE;
+TRUE; American Girl | Breakdown
+TRUE; The Waiting | Learning to Fly
+TRUE; Mary Jane's Last Dance
+//
+//
+//
+//
+ARTIST; Tommy James & The Shondells; **; BAND 
+TRIVIA; The band formed in 1959 under the name Tom and the Tornadoes. Tommy James was lead singer at the tender age of only 12 
+QUESTION; TRUE; Tommy James' band
+BOUGHT; Mony Mony
+TRUE; Crimson and Clover | Crystal Blue Persuasion | Sweet Cherry Wine
+//
+//
+//
+//
+//
+ARTIST; Tommy Roe; **; MV; 152e2809-90c6-8308-4ae0-e3864ac83632; 1.33; US    
+TRIVIA; This pop music singer and songwriter, born in 1942 in Atlanta, had two number one US hit singles in the sixties. 
+QUESTION; TRUE;
+BOUGHT; Dizzy 
+TRUE; Sheila | Sweet Pea
+//
+//
+//
+//
+//
+ARTIST; Tony Orlando & Dawn; **; F_BAND; f50aac4f-0c91-8956-f03f-007cb24319a8; 1.0; US    
+TRIVIA; This pop music group from New York had multiple hit songs in the 70s, including a No. 1 on the Billboard Hot 100 that sold six million copies,
+QUESTION; TRUE;
+BOUGHT; Knock Three Times
+TRUE; Tie a Yellow Ribbon Round the Ole Oak Tree | Candida 
+TRUE; He Don't Love You (Like I Love You)
+//
+//
+//
+//
+ARTIST; Toronto; **; BAND; d519810c-9d09-ce94-f68a-2faf5138cd12; 1.0; US 
+TRIVIA; Toronto was a Canadian rock band formed in the late 1970s in Toronto, Ontario, 
+QUESTION; TRUE;
+TRUE; All I Need | Your Daddy Don't Know | Even the Score
+//
+//
+//
+//
+//
+// 
+ARTIST; Toto; **; BAND; 69f736b0-407a-6e39-aa2e-4fd6f496e8ff; 1.5; US    
+TRIVIA; This pop and rock band formed in 1977 in California was one of the best-selling groups of the late 70s and 80s with multiple Top 5 hits, and received several Grammy Awards
+QUESTION; TRUE;
+BOUGHT; Hold the Line 
+TRUE; Rosanna | Africa
+//
+//
+//
+//
+//
+ARTIST; The Trammps; **; BAND; 0476c260-b59b-1a17-e97c-3efd0f4296c5; 1.47; US
+TRIVIA; This disco and soul band from Philadelphia was one of the first disco bands of the '70s
+QUESTION; TRUE;
+BOUGHT; Disco Inferno
+TRUE; That's Where the Happy People Go
+TRUE; Where Do We Go from Here? | Hold Back the Night
+//
+//
+//
+//
+ARTIST; The Traveling Wilburys; **; BAND; c169b2be-dd51-090c-ac5b-8b0098b467ac; 2.0;
+TRIVIA; This English-American supergroup formed by Bob Dylan, George Harrison, Jeff Lynne, Roy Orbison, and Tom Petty recorded two albums in the '90s
+QUESTION; TRUE;
+BOUGHT; End of the Line
+TRUE; Handle With Care | Last Night
+//
+//
+//
+//
+//
+ARTIST; The Troggs; **; BAND_BRIT; 25d52bee-dc4d-d47d-73d7-51a0eef7f853; 1.0; UK 
+TRIVIA; Originally called The Troglodytes, This English rock band formed in 1964 had numerous hits in the UK and the US that sold over 1 million copies
+QUESTION; TRUE;
+BOUGHT; Wild Thing
+TRUE; With a Girl Like You | Love Is All Around 
+//
+//
+//
+//
+//
+ARTIST; The Turtles; **; BAND; 99e6b4e0-a1cd-6ff3-e2f5-2c81b54e9243; 1.51; US 
+TRIVIA; This rock band from California, also known as the Tyrtles, had several Top 40 hits in the late 60s. Genres:
+pop rock, folk rock 
+QUESTION; TRUE;
+BOUGHT; Happy Together
+TRUE; Elenore | She'd Rather Be With Me 
+//
+//
+//
+//
+ARTIST; Twisted Sister; **; BAND; 2a64d56e-a511-0fa3-3815-d169906bf873; 1.5; US
+TRIVIA; An American band famous for cross-dressing and aggressive musical style likened to  "glam metal"
+QUESTION; TRUE;
+BOUGHT; We're Not Gonna Take It
+TRUE;I Wanna Rock | The Kids Are Back 
+TRUE; The Price
+// *
+//
+//
+//
+ARTIST;
+// MUSIC WIKI UVWXYZ - 05-20-2017
+U,10,30,V,30,90,W,90,150,Z,150,170 
+//   
+//
+// BAND    | BAND_BRIT | DUO_MF | DUO_M    
+// FV   | F_BAND    | FV_CTRY         F_BAND = female mixed
+// MV    | MV_BRIT   | MV_CTRY
+// METAL
+//
+//
+ARTIST; U2; **; BAND; 58dfddd9-f968-c27a-8c5a-7b7bce59d809; 1.35; IRL
+TRIVIA; This Irish rock band formed in Dublin in 1976 has won 22 Grammy Awards
+TRIVIA; This Irish rock band was inducted into the Rock and Roll Hall of Fame
+QUESTION; TRUE;
+TRUE; Beautiful Day | Vertigo
+TRUE; With or Without You
+//
+//
+//
+//
+ARTIST;USMMA Band / Force
+TRIVIA;
+QUESTION;
+BOUGHT;Hail to the Chief (Original)
+//
+//
+//
+//
+//
+// ****************************
+ARTIST; Van Halen; **; BAND; 182f8436-950a-41a4-b53f-d6c913fbc31c; 0.75; US
+TRIVIA; This American rock band formed in California in 1972 had a #1 single on the Billboard Hot 100
+QUESTION; TRUE;
+BOUGHT; Jump 
+TRUE; Panama | Hot for Teacher 
+//
+//
+//
+//
+//
+ARTIST; Van Morrison; **; MV; 5afa7a38-908a-dbf6-b75c-74ceab9904a9; 1.88; UK
+TRIVIA; This Northern Irish singer, songwriter and musician, born 1945, also known as "Van the Man", received six Grammy Awards, was inducted into the Rock and Roll and the Songwriters Hall of Fame, and was knighted 
+QUESTION; TRUE;
+BOUGHT; Brown Eyed Girl
+TRUE; Into the Mystic | Moondance | Crazy Love
+//
+//
+//
+//
+//
+ARTIST; Vanity Fare; **; BAND_BRIT; 2024455c-8663-ad4e-5e3b-b7313de11385; 1.0; UK
+TRIVIA; This British pop/rock group formed in 1966 and still active today was made famous wordwide by their 1970 hit song
+QUESTION; TRUE;
+BOUGHT; Hitchin' a Ride
+TRUE; Early in the Morning
+// *
+//
+//
+//
+//
+ARTIST; Vicki Lawrence; **; FV; b8d001c5-6edc-b898-7c91-7f4ac8b4f7d5; 1.0; US
+TRIVIA; An American actress, comedienne and singer best known for her co-starring role on The Carol Burnett Show and as the main character in the sitcom Mama's Family
+QUESTION; TRUE;
+BOUGHT; The Night the Lights Went Out In Georgia | Killing Me Softly 
+//
+// QUESTION; DIALOG; Give the name of the quick-tempered elderly character played by Vicky
+// HINT; The name is : Th???? (six letters)
+// ANSWER; Thelma | elma
+//
+//
+ARTIST; Village People; **; BAND; 39918d56-49a4-cf8d-e4e4-85bcd4bb3ca4; 1.04; US
+TRIVIA; An American disco group that formed in 1977, well known for their extravagant costumes and catchy tunes with suggestive lyrics
+QUESTION; TRUE;
+BOUGHT; Y.M.C.A. | In the Navy
+TRUE; Macho Man
+//
+//
+//
+//
+//
+ARTIST; The Vogues; **; BAND; e2a0f60f-ed34-919f-e44f-bb64adf4f6dd; 1.0; US 
+TRIVIA; The Vogues are an American vocal group from Turtle Creek, Pennsylvania, a suburb of Pittsburgh.
+QUESTION; TRUE;
+TRUE; You're The One
+TRUE; Five O'clock World
+//
+//
+// 
+//
+// **********************
+ARTIST; Waylon Jennings & Willie Nelson; **; DUO_M
+TRIVIA; Jennings joined Nelson and the country supergroup "The Highway men" as part of the Country Outlaw movement. 
+QUESTION; TRUE; Waylon Jennings
+BOUGHT Mamas Don't Let Your Babies Grow Up to Be Cowboys    
+TRUE; Luckenbach, Texas (Back to the Basics of Love)
+// QUESTION; DIALOG; Jennings composed and sung the theme song of this TV series : // The Dukes of ???????
+// HINT; Give the last word. 7 letters
+// ANSWER; Hazzard | hazard
+//
+//
+ARTIST;  Weird Al Yankovic; **; MV; f239dd14-4bb8-3304-254b-8eb827c81c0d; 0.5; US 
+TRIVIA; Alfred Matthew "Weird Al" Yankovic is an American singer, songwriter, parodist, record producer, satirist, actor, voice actor, music video director, film producer, and author. He is known for his humorous songs that make light of popular culture and often parody specific songs by contemporary musical acts, original songs that are style pastiches of the work of other acts, and polka medleys of several popular songs, featuring his favored instrument, the accordion.
+QUESTION; TRUE;
+TRUE; Eat It | Amish Paradise | Nature Trail to Hell
+TRUE; The Saga Begins | I Lost on Jeapardy | Yoda |  The Brady Bunch
+//
+//
+// 
+//
+//
+ARTIST; Whitesnake; **; METAL; ae0febfc-4ddf-a2e8-0587-3a29f103040f; 1.02; UK 
+TRIVIA; This British rock and heavy metal band, formed in 1978, achieved worldwide success and had two US hits in the early 80s reaching number one and two on the Billboard Hot 100. 
+QUESTION; TRUE;
+TRUE; Here I Go Again | Is This Love 
+TRUE; Still of the Night
+//
+//
+//
+//
+//
+ARTIST; The Who; **; BAND_BRIT; 79dc269d-d82c-a6e1-4e94-84ab48f56955; 1.3; UK
+TRIVIA; This English rock band, one of the world's best-selling bands of all time, sold more than 100 million records 
+QUESTION; TRUE;
+BOUGHT; Who Are You | Squeeze Box
+BOUGHT; Baba O'Riley | Won't Get Fooled Again
+//
+//
+//
+//
+//
+ARTIST; Willie Nelson; **; MV_CTRY; c234d28a-e84c-f072-c0d4-21adfa9b52d2; 0.8; US
+TRIVIA; This country music singer-songwriter, actor, was one of the main figures of outlaw country in the mid-'70s. Genres: Country, country rock, outlaw country
+TRIVIA; The IRS seized all of Nelson's assets in the '90s to collect $32 million in back taxes. Genres: Country, country rock, outlaw country
+QUESTION; TRUE;
+BOUGHT; On the Road Again | Always On My Mind
+TRUE; Blue Eyes Crying in the Rain | City of New Orleans
+//
+//
+//
+//
+ARTIST; Wings; **; BAND_BRIT; 0b1d8037-43d8-751e-ad59-ae03a85091ec; 1.5; UK
+TRIVIA; Wings were a successful British rock band formed in 1971 by Paul McCartney of The Beatles fame with his wife Linda
+QUESTION; TRUE;
+BOUGHT; Silly Love Songs | Let 'Em In
+TRUE; Listen to What The Man Said
+TRUE; Live and Let Die
+//
+//
+//
+// *********************
+ARTIST; The Zombies; **; BAND_BRIT; f5bc6091-0a02-3e59-ec1e-248d704345ad; 1.12; UK
+TRIVIA; This English rock band, formed in 1962, scored British and American hits in the sixties. Their music genres span rock, jazz rock, R&B and psychedelic pop 
+QUESTION; TRUE;
+BOUGHT; Time of the Season
+TRUE; She's Not There
+TRUE; Tell Her No
+//
+//
+//
+//
+ARTIST;Zumba Fitness
+TRIVIA;
+QUESTION;
+BOUGHT;Que Te Mueve Merengue 
+BOUGHT;Baila Pa Emociona Calypso 
+//
+//
+//
+//
+//
+ARTIST; Bryan Adams; **; MV; 792529ee-d54a-56c4-8297-6524d7ecc468; 2.0; CAN
+TRIVIA; Bryan Guy Adams, (born 5 November 1959) is a Canadian singer, songwriter, record producer, guitarist, photographer, philanthropist and activist. Adams rose to fame in Canada and the United States with his 1983 album Cuts Like a Knife and turned into a global star with his 1984 album Reckless, 
+QUESTION; TRUE;
+TRUE; Run To You | Summer Of '69
+TRUE; Cuts Like A Knife
+TRUE; One Night Love Affair
+//
+//
+//
+//
+ARTIST; Triumph; **; BAND; 3cda9616-f4da-99e4-4479-0e6325e0a753; 2.0; CAN
+TRIVIA;Triumph is a Canadian hard rock band that was popular in the late 1970s and the 1980s, building on its reputation and success as a live band. 
+QUESTION; TRUE;
+TRUE; Magic Power | Lay It On The Line
+//
+//
+//
+//
+//
+//
+ARTIST; Joni Mitchell; **; FV; a5b0ec73-f139-d4c0-6f58-9093d9c54e20; 2.0; CAN
+TRIVIA;Roberta Joan "Joni" Mitchell,  is a Canadian singer-songwriter. Rolling Stone called her "one of the greatest songwriters ever", and AllMusic has stated, "When the dust settles, Joni Mitchell may stand as the most important and influential female recording artist of the late 20th century".
+QUESTION; TRUE;
+TRUE; Both Sides Now | Big Yellow Taxi
+TRUE; Free Man In Paris
+//
+//
+//
+//
+//
+ARTIST; Five Man Electrical Band; **; MV; 98c7bf5e-4767-b063-06b2-e57725d61832; 1.0; CAN
+TRIVIA; The Five Man Electrical Band (originally known as The Staccatos from 1963–68) is a Canadian rock group from Ottawa. They had many hits in Canada.
+QUESTION; TRUE;
+TRUE; Signs | Absolutely Right
+TRUE; I'm a Stranger Here
+TRUE; Didn't Know the Time
+//
+//
+//
+//
+ARTIST; Jan & Dean; **; DUO_M; 1f645571-788b-83ee-7231-53c17febf8f0; 1.0; US
+TRIVIA; Jan and Dean were an American rock duo consisting of William Jan Berry (April 3, 1941 – March 26, 2004) and Dean Ormsby Torrence (born March 10, 1940).
+QUESTION; TRUE;
+TRUE; Surf City| Little Old Lady From Pasedena
+TRUE; Dead Man's Curve
+TRUE; Drag City
+//
+//
+//
+//
+ARTIST; Michael Sembello; **; MV; 8c217cd2-24e2-d6d9-0600-9cf74ab0b63f; 1.78; US
+TRIVIA; This Grammy-award winning singer, musician, songwriter from Philadelphia was nominated for an Academy Award for his 1983 song "Maniac".
+QUESTION; OTHER; Maniac was featured in a 1984 Grammy Award winning film. Name it 
+TRUE; Flashdance
+FALSE; Saturday Night Fever | Xanadu 
+FALSE; Grease | Dirty Dancing
+//
+// Added Cheers April 7
+//
+//
+ARTIST; Modern Talking; **; DUO_M; 7227a951-5014-457a-a20a-d4aee42eb2a3; 1.33;
+TRIVIA; This duo, active 1983 to 2003, was considered Germany's most successful pop duo, and had a number of top five hit singles in several countries.
+QUESTION; TRUE;
+BOUGHT; Cheri, Cheri Lady 
+TRUE; You're My Heart, You're My Soul |  Brother Louie 
+//
+//
+// Added Cheers April 7 2018
+//
+//
+ARTIST; The Big Bopper; **; MV; 7227a951-5014-457a-a20a-d4aee42eb2a3; 1.33;
+TRIVIA; Jiles Perry "J. P." Richardson Jr., known as The Big Bopper, was an American musician, songwriter, and disc jockey whose rockabilly look, style, voice, and exuberant personality made him an early rock and roll star.
+QUESTION; TRUE;
+TRUE; Chantilly Lace
+TRUE; White Lightning
+//
+//
+// 
+//
+//
+ARTIST; Boney M; **; BAND; 7227a951-5014-457a-a20a-d4aee42eb2a3; 1.33;
+TRIVIA; Boney M. were a Euro-Caribbean vocal group created by German record producer Frank Farian, originally based in West Germany.
+QUESTION; TRUE;
+TRUE; Rasputin | Rivers of Babylon
+TRUE; Daddy Cool
+//
+//
+// 
+//
+//
+ARTIST; Luba; **; BAND; 7227a951-5014-457a-a20a-d4aee42eb2a3; 1.33; CAN
+TRIVIA; Luba (born Lubomyra Kowalchyk), April 24, 1958, Montreal, Quebec, Canada) is a Canadian musician, singer, songwriter and recording artist of Ukrainian descent.
+QUESTION; TRUE;
+TRUE; Everytime I See Your Picture| Let It Go
+TRUE; Storm Before The Calm
+//
+//
+// 
+//
+//
+ARTIST; Alison Krauss & Union Station; **; F_BAND; 165d13ef-51ec-c71f-af9a-43f6ec80bf9a; 0.668; US
+TRIVIA; Alison Krauss. s bluegrass-country singer from Illinois, born in 1971, entered the music world at the early age of 10. She joined the band Alison Krauss and Union Station. Alison is the most awarded female artist in Grammy history with 27 awards
+QUESTION; TRUE;
+BOUGHT; When You Say Nothing At All    
+TRUE; The Lucky One
+//  
+// 
+//  Nov 9 2018
+//
+//
+ARTIST; Badfinger; **; BAND_BRIT; 8677ef0f-3e85-0558-3fed-368d9f835731; 1.500; UK
+TRIVIA; This British Rock band, had four worldwide hits in the early 70s. Two cofounders of the band, Pete Ham and Tom Evans committed suicide by hanging 
+QUESTION; TRUE;
+BOUGHT; No Matter What 
+TRUE; Day After Day | Baby Blue
+//
+//
+// April 13 2018
+//
+//
+ARTIST; Brenda Lee; **; FV_CTRY; 47a38976-7faa-225e-8f63-5e5cdb4a2fbd; 0.741; US
+TRIVIA; This pop and country singer from Georgia, born 1944, is the top female vocalist of the 60s, when she had 47 hits She is the only woman to be inducted into both the Rock and Roll and Country Music Halls of Fame.
+QUESTION; TRUE;
+BOUGHT; I'm Sorry 
+TRUE; All Alone Am I
+//
+//
+//  Nov 9 2018
+//
+//
+ARTIST; Brian Hyland; **; MV; f416eb0f-971a-7488-f388-14e14b8ddf42; 0.698; US
+TRIVIA; This bubblegum pop recording artist from New York, born 1943, was a teen idol in the 60s and 70s. 
+QUESTION; TRUE;
+BOUGHT; Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini
+TRUE; Gypsy Woman
+//
+//
+//  Nov 9 2018
+//
+//
+ARTIST; Carlene Carter; **; FV_CTRY; e3bdddb0-7e6d-aeb8-4f53-8d1aadeee2d6; 0.667; US 
+TRIVIA; This country singer and songwriter from Tennessee, the daughter of June Carter, had more than twenty singles and three No. 3 hits on the Billboard Country charts since 1978.
+QUESTION; TRUE; 
+BOUGHT; Every Little Thing
+TRUE; Come On Back
+//   
+//  Nov 9 2018
+//
+//
+//
+ARTIST; Colbie Caillat; **; FV; 01fdb9b4-233f-503f-815c-3218dd9c3e41; 0.703; US  
+TRIVIA; This singer and songwriter from California, born 1985, rose to fame through the website Myspace. Caillat has sold over six million albums worldwide and over 10 million singles
+BOUGHT; Bubbly
+TRUE; Realize
+//
+//
+//  Nov 9 2018
+//
+//
+//
+ARTIST; Dottie West; **; FV_CTRY; 3eaf8f38-ec00-baed-c6b3-84c8a5b8b9b6; 1.157; US
+TRIVIA; This country music singer and songwriter,(1932-1991) recorded with country music legends Patsy Cline and Loretta Lynn and sang famous duets with Kenny Rogers. In 2018, West was posthumously inducted into the Country Music Hall of Fame
+QUESTION; TRUE;
+BOUGHT; Country Sunshine
+TRUE; Here Comes My Baby Back Again
+//
+//
+//  Nov 9 2018
+//
+//
+ARTIST; Eddy Arnold; **; MV_CTRY; 5c49e673-96f7-79f0-0cb6-83dc2269cfca; 1.504; US
+TRIVIA; This country music singer (1918 – 2008) from Tennessee was active for six decades. He had 147 songs on the Billboard country music charts and was inducted into the Country Music Hall of Fame in 1966
+QUESTION; TRUE;
+BOUGHT; Make the World Go Away
+TRUE; Cattle Call
+//
+//  Nov 9 2018
+//
+//
+//
+ARTIST; George Baker Selection; **; BAND; e7ae6347-a647-d980-5f8f-23733f6a8c73; 1.333;    
+TRIVIA; A pop rock band formed in the Netherlands in 1967. Their single “Paloma Blanca" reached No. 1 on charts in several countries and is the most successful Dutch single of all times
+QUESTION; TRUE;
+BOUGHT; Paloma Blanca
+TRUE; Little Green Bag
+//
+//   Nov 9 2018
+//
+//
+//
+ARTIST; Jennifer Rush; **; FV; 8a28dd5e-565e-e5f9-3f57-75a0dd7a85d1; 1.923; US
+TRIVIA; This singer / songwriter from New York was popular around the world in the 80s, thanks to her 1984 million-selling single "The Power of Love".
+QUESTION; TRUE;
+BOUGHT; The Power Of Love
+TRUE; Ring of Ice
+//  
+//   Nov 9 2018
+//
+//
+//
+ARTIST; Keith Whitley; **; MV_CTRY; 63a0ee70-5ed1-1b6b-5e16-0beea612d9ef; 1.000; US    
+TRIVIA; This country music singer from Kentucky, born in 1955, only recorded two albums but charted 19 singles on the Billboard country charts. Whitley, who married country singer Lorrie Morgan died tragically at age 33. 
+QUESTION; TRUE;
+BOUGHT; When You Say Nothing at All | Don't Close Your Eyes
+// 
+//
+//   Nov 9 2018
+//
+//
+//
+ARTIST; The Knack; **; BAND; d3e82a3c-fb8f-6c2f-fc2b-f9dc02434df9; 1.507; US
+TRIVIA; An American rock band based in Los Angeles that rose to fame with their first single, "My Sharona", an international number-one hit in 1979. 
+QUESTION; TRUE;
+BOUGHT; My Sharona 
+TRUE; Good Girls Don't
+//
+//  Nov 9 2018
+//
+//
+//
+ARTIST; Lorrie Morgan; **; FV_CTRY; da5953ed-3cdd-a1cf-9e7b-468de93a426e; 0.685; US
+TRIVIA; This country music singer born in 1989. daughter of country music legend George Morgan, broke into the top U.S. country charts in 1989. She has 40 songs on the Billboard Hot Country charts with three number one hits.
+QUESTION; TRUE;
+BOUGHT; Five Minutes
+TRUE; What Part of No
+//
+// 
+//     Nov 9 2018
+//
+//
+ARTIST; Lynn Anderson; **; FV_CTRY; e73bb007-40d9-44c6-3ac2-279e58117d65; 1.658; US 
+TRIVIA; This country music singer and TV personality from North Dakota (1947-2015) who had more than 50 Top 40 hit singles since the 60s, was one of the most popular country singers of the 70s. She received a Grammy Award
+QUESTION; TRUE;
+BOUGHT; Rose Garden
+TRUE; Keep Me In Mind
+//
+//   Nov 9 2018
+//
+//
+//
+ARTIST; Mary Chapin Carpenter; **; FV_CTRY; ee1a7e2c-75d2-bdb9-68ba-3080f733d3a2; 1.782; US
+TRIVIA; This singer songwriter from New Jerey, active 1987 to present, has won five Grammy Awards and is the only artist to have won 4 consecutive Grammy Award for Best Female Country Vocalist
+QUESTION; TRUE;
+BOUGHT; Down at the Twist and Shout
+TRUE; Passionate Kisses | Shut Up and Kiss Me
+//
+//  Nov 9 2018
+//
+//
+//
+ARTIST; Niamh Lynn; **; FV_CTRY; 2ce9a941-245c-bd00-f50b-7b82f39e2a7f; 1.333;
+TRIVIA; This Country Music singer from Ireland permors live and enjoys a huge fan base at home, the U.K. & Europe since 2015. She draws from country music legends such as Patsy Cline, Tammy Wynette & Billie Jo Spears. 
+QUESTION; TRUE;
+BOUGHT; Sing Me An Old Fashioned Song
+TRUE; While I Was Making Love To You
+//
+//  Nov 9 2018
+//
+//
+//
+ARTIST; Paul Anka; **; MV; 960da4e0-45a6-dd49-2a9b-e75ba09c4576; 0.988; CAN
+TRIVIA; This Canadian singer and famous songwriter and actor, born in 1941, was very successful during the late 50s through 70s He received ae Lifetime Achievement Award in the Canadian Music Hall of Fame
+QUESTION; TRUE;
+BOUGHT; Diana        
+TRUE; Put your head on my shoulder
+//
+//  Nov 9 2018
+//
+//
+//
+ARTIST; Sheb Wooley; **; MV; 2377eddd-4e6d-c3c9-7e5a-ec2037ccc6ca; 1.003; US
+TRIVIA; Also known as Ben Colder, this actor and singer from Oklahoma is best known for his 1958 song "The Purple People Eater". He starred in various films and TV series, such as High Noon, The Outlaw Josey Wales and Rawhide. 
+QUESTION; TRUE;
+BOUGHT; The Purple People Eater
+TRUE; That's My Pa
+//
+//
+//  Nov 9 2018
+//
+//
+ARTIST; Skeeter Davis; **; FV; b268b8b9-eff2-d55c-b0d2-127b9ea6ad5f; 1.333; US    
+TRIVIA; This country and pop music singer from Kentucky, born in 1931, sang the 1962 mega hit "The End of the World" which spawned many cover versions by famous artists. Davis is said to have influenced later country music legends like Tammy Wynette and Dolly Parton
+QUESTION; TRUE;
+BOUGHT; The End of the World
+TRUE; Gonna Get Along Without You Now
+//
+//
+//   Nov 9 2018
+//
+//
+ARTIST; Zumba Fitness
